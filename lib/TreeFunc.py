@@ -522,7 +522,7 @@ def treeTreatment(data, dAlnTree, nbSp, phymlOpt):
 	if len(lFastaFile) > 0:
 		for orthoGp in data.duplication:
 			aln = AnalysisFunc.runPrank(orthoGp, 
-						    data.geneName, 
+						    #data.geneName, 
 						    data.o)
 			tree = AnalysisFunc.runPhyML(aln, phymlOpt, data.o)
 			dAlnTree2[aln] = tree+"_phyml_tree.txt"
