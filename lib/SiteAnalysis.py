@@ -54,7 +54,7 @@ def bppSite(bppFile, bppMixed, alnFile, alnFormat, treeFile, lModels, outDir, ba
             dModelSyntax[k][model].append("n=4")
           if model in ["M7","M8"]:
             dModelSyntax[k][model].append("q=1")
-          if model=="M8"
+          if model=="M8":
             dModelSyntax[k][model].append("omegas=1")
           if model in ["M10"]:
             dModelSyntax[k][model].append("nbeta=4")
