@@ -138,6 +138,9 @@ RUN pip3 install biopython
 
 RUN pip3 install --upgrade ete3
 
+ARG CACHEBUST
+RUN echo "$CACHEBUST"
+
 RUN git clone https://github.com/ikeyko/DGINN && cd DGINN && chmod +x DGINN.py
 ENV PATH /opt/DGINN/:$PATH
 ENV PYTHONPATH /opt/DGINN/:$PYTHONPATH
