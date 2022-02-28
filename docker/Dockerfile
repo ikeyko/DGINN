@@ -16,6 +16,7 @@ RUN apt-get -y install build-essential \
 	openssl \
 	libssl-dev \
 #	openmpi-bin \
+        wget \
 	libopenmpi-dev \
         libeigen3-dev
         
