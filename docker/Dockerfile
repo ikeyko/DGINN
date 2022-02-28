@@ -25,7 +25,7 @@ RUN apt-get -y install build-essential \
 
 RUN mkdir openmpi  && \
     cd openmpi && \
-    wget -O . 'https://download.open-mpi.org/release/open-mpi/v4.1/openmpi-4.1.2.tar.gz' && \
+    wget -O ./openmpi-4.1.2.tar.gz 'https://download.open-mpi.org/release/open-mpi/v4.1/openmpi-4.1.2.tar.gz' && \
     tar -xzvf openmpi-4.1.2.tar.gz && \
     cd openmpi-4.1.2 && \
     ./configure --enable-mca-no-build=op-avx --prefix=$HOME/openmpi && \
