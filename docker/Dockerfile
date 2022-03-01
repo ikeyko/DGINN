@@ -82,14 +82,22 @@ RUN cd bpp && cd sources && for  d in bpp-phyl; \
 	cd ..; \
 	done
 
-RUN cd bpp && cd sources && for d in bpp-popgen; \
-	do git clone https://github.com/BioPP/$d; \
-	cd $d; \
-	cmake -DCMAKE_INSTALL_PREFIX=/opt/bpp -DCMAKE_LIBRARY_PATH=/opt/bpp/lib -DCMAKE_INCLUDE_PATH=/opt/bpp/include -DBUILD_TESTING=FALSE ./; \
-	make; \
-	make install; \
-	cd ..; \
-	done
+# RUN cd bpp && cd sources && for d in bpp-popgen; \
+#	do git clone https://github.com/BioPP/$d; \
+#	cd $d; \
+#	cmake -DCMAKE_INSTALL_PREFIX=/opt/bpp -DCMAKE_LIBRARY_PATH=/opt/bpp/lib -DCMAKE_INCLUDE_PATH=/opt/bpp/include -DBUILD_TESTING=FALSE ./; \
+#	make; \
+#	make install; \
+#	cd ..; \
+#	done
+
+RUN cd bpp && cd sources && \
+	git clone https://github.com/BioPP/bpp-popgen && 
+	cd bpp-popgen && \
+	cmake -DCMAKE_INSTALL_PREFIX=/opt/bpp -DCMAKE_LIBRARY_PATH=/opt/bpp/lib -DCMAKE_INCLUDE_PATH=/opt/bpp/include -DBUILD_TESTING=FALSE ./ && \
+	make && \
+	make install && \
+	cd ..
 
 RUN cd bpp && git clone https://github.com/BioPP/bppsuite && cd bppsuite && cmake -DCMAKE_INSTALL_PREFIX=/opt/bpp ./ && make -j 4 && make install
 
