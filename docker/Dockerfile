@@ -138,8 +138,6 @@ RUN pip3 install biopython
 
 RUN pip3 install --upgrade ete3
 
-ADD "https://www.random.org/cgi-bin/randbyte?nbytes=10&format=h" skipcache
-
 RUN git clone https://github.com/ikeyko/DGINN && cd DGINN && chmod +x DGINN.py
 ENV PATH /opt/DGINN/:$PATH
 ENV PYTHONPATH /opt/DGINN/:$PYTHONPATH
