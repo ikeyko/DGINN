@@ -485,9 +485,9 @@ def runGARD(aln, o, hostFile, logger):
 	
 	#for hyphy 2.5
 	if hostFile == "":
-	  cmd = "mpirun -np 4 HYPHYMPI GARD --mca op ^avx --alignment {:s} --output {:s} --output-lf {:s}".format(aln, gardJson, gardRes)
+	  cmd = "mpirun -np 4 HYPHYMPI GARD --alignment {:s} --output {:s} --output-lf {:s}".format(aln, gardJson, gardRes)
 	else:
-	  cmd = "mpirun -np 4 -hostfile {:s} HYPHYMPI GARD --mca op ^avx --alignment {:s} --output {:s} --output-lf {:s}".format(hostfile, aln, gardJson, gardRes)
+	  cmd = "mpirun -np 4 -hostfile {:s} HYPHYMPI GARD --alignment {:s} --output {:s} --output-lf {:s}".format(hostfile, aln, gardJson, gardRes)
           
 	lCmd = shlex.split(cmd)
 	with open(outGard, "w") as o, open(errGard, "w") as e:
