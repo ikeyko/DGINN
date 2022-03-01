@@ -15,25 +15,12 @@ RUN apt-get -y install build-essential \
 	automake \
 	openssl \
 	libssl-dev \
-#	openmpi-bin \
-        wget \
+	openmpi-bin \
 	libopenmpi-dev \
         libeigen3-dev
         
 ## Install most recent version of cMake
 ## RUN git clone https://github.com/Kitware/CMake && cd CMake && ./bootstrap && make && make install
-
-RUN mkdir openmpi  && \
-    cd openmpi && \
-    wget -O ./openmpi-4.1.2.tar.gz 'https://download.open-mpi.org/release/open-mpi/v4.1/openmpi-4.1.2.tar.gz' && \
-    tar -xzvf openmpi-4.1.2.tar.gz && \
-    cd openmpi-4.1.2 && \
-    ./configure --enable-mca-no-build=op-avx --prefix=$HOME/openmpi && \
-    make -j4 all && \
-    make install && \
-    echo "export PATH=\$PATH:\$HOME/openmpi/bin" >> $HOME/.bashrc && \
-    echo "export LD_LIBRARY_PATH=\$LD_LIBRARY_PATH:\$HOME/openmpi/lib" >> $HOME/.bashrc
-
 
 RUN apt-get -y install build-essential cmake
 
@@ -151,8 +138,6 @@ RUN pip3 install biopython
 
 RUN pip3 install --upgrade ete3
 
-ARG CACHEBUST
-RUN echo "$CACHEBUST"
 ADD "https://www.random.org/cgi-bin/randbyte?nbytes=10&format=h" skipcache
 
 RUN git clone https://github.com/ikeyko/DGINN && cd DGINN && chmod +x DGINN.py
