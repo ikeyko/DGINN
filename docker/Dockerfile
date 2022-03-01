@@ -92,7 +92,7 @@ RUN cd bpp && cd sources && for  d in bpp-phyl; \
 #	done
 
 RUN cd bpp && cd sources && \
-	git clone https://github.com/BioPP/bpp-popgen && 
+	git clone https://github.com/BioPP/bpp-popgen && \
 	cd bpp-popgen && \
 	cmake -DCMAKE_INSTALL_PREFIX=/opt/bpp -DCMAKE_LIBRARY_PATH=/opt/bpp/lib -DCMAKE_INCLUDE_PATH=/opt/bpp/include -DBUILD_TESTING=FALSE ./ && \
 	make && \
