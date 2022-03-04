@@ -1,5 +1,5 @@
 # Path or list of paths (absolute or relative) to the files needed to start the pipeline
-infile:KRTAP5-1_CCDS.fasta
+infile:ELOA2_CCDS.fasta
 
 # NCBI database on which the blast is to be performed (ex: nr)
 # Future implementations will include the possibility to perform the search on local databases
@@ -58,15 +58,15 @@ positiveSelection:True
 hyphySeuil:
 
 # Option for using the Hyphy method BUSTED (Murrel *et al.*, 2015) (default: False)
-Busted:true
+busted:
 
 # Option for using the Hyphy method BUSTED (Murrel *et al.*, 2015) (default: False)
-Meme:true
+meme:
 
 # Models to be computed by BIO++ (Gueguen *et al.*, 2013) and PAML (Yang, 2007)
 # Implemented models: M0, M1, M2, M7, M8
 # Must be comma separated (ex: M0,M1,M2)
-models:M0, M1, M2, M7, M8, DFP07_0, DFP07
+models:M0, M1, DFP07_0, DFP07
 
 # Option for using BIO++ for the detection of sites under positive selection
 # If True, parameter file will be automatically generated
@@ -79,5 +79,5 @@ mixedlikelihood:True
 # Option for using BIO++ for the detection of branches under positive selection
 # If True, parameter file will be automatically generated
 # Can be used to indicate the path to a BIO++ parameter file
-opb:True
+opb:False
 
