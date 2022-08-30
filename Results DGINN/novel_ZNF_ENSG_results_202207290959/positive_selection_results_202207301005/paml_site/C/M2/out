@@ -1,0 +1,521 @@
+     21   1233
+
+calJac_LOC100895615_XM_035254406  GGC CGC CTT CGT GTG CCC CGA GTG TGG CAA GGC CTT CAG CGT CAA GCA CAA CCT CGA GGT GCA CCA GCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CAC GCA CAC CGG AGA GCG GCC CTT CCC CTG CCC CGA GTG CGG CCG CTG CTT CAG CCT CAA GCA GAA CCT GCT CAC GCA CCA GCG CAT CCA CAG CGG CGA GAA GCC GCA CCA GTG CGC CCA GTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCG CTG CTT CCG CGA GCC GCG CTT CCT GCT CAA CCA CCA GCG CAC CCA CGC GCG CAT GCC CGC GCC GCA CCC ACG CCG CCC CGG CGT CTT TGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GGA GCG GCG GCC --- --- --- --- --- CTA CTT CTG CCC CCG CTG CGG CAA GAG CTT CGC GCG CGA GGG CTC GCT CAA GAC CCA CCA GCG CAG CCA CGG CCA CGG GCC GGA GGG CCA GGC CTC GCA CTT AGG CCG CGT GCT ATG ATG CGT CCA GAG CCT GCT GCC GAC TGC TGC TTC CTG TCC CTC ACG TGC GTC CCC GAC CCC TGG AGA TGG TCC TGG GCT GCA GCC CCC TCT CTG GAT GGG ATC CTG GTG CAG GGG CAG GGC TGG CTT GGG CTC TTG ATG GTG TGG GCC GCC CCT AGG CTC CGG CCG CCC CCT TGC GTT CCT CCC TCG GGA CCC TCC AGC TGG CTG CAC TCA GCT GCT TCG GGC TCC TGC CAT GGT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TCT CCT TCC CTG GCC CAT CCG GCC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+chlSab_LOC103227212_XM_037990954  CGC TGC CTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTT CCC TGC CCC GAG TGC GGC CGC TGC TTC AGT CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGG GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCA CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG TCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+gorGorGor_LOC101140790_XM_019031179  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCG CAC GCC GGA GCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGT GCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGC ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG CCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCG CAC CCG CGC CGC CCC GGC GTC TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+homSap_novelZNF_ENSG00000284691  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCG CAC GCC GGA GCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGT CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGC ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG CCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCG CAC CCG CGC CGC CCC GGC GTC TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+macFas_LOC102130591_XM_015448271  GGC TGC CTT CGT GTG CCC CGA GTG CGG CAA GGC CTT CAG CGT CAA GCA CAA CCT CGA GGT GCA CCA GCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CAC GCA CAC CGG GGA GCG GCC CTT TCC CTG CCC CGA GTG CGG CCG CTG CTT CAG TCT CAA GCA GAA CCT GCT CAC GCA CCA GCG TAT CCA CAG CGG CGA GAA GCC GCA CCA GTG TGC GCA GTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCG CTG CTT CCG CGA GTC GCG CTT CCT GCT CAA CCA CCA GCG CAC CCA CGC GCG CAT GCC CGC GCC CCA CCC GCG CCG CCC CGG CGT TTT CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GGA GCG GCG GCC --- --- --- --- --- CTA CTT CTG CCC CCG CTG CGG CAA GAG CTT CGC GCG CGA GGG CTC GCT CAA GAC CCA TCA GCG CAG CCA CGG CCA CGG GCC CGA GGG CCA GGC GGC CCA CTT AGG ACG CGT GCT ATG ATG CGC CCG GGG CCT GCT GCC GAC TGC TGC TTC CTG CCC CGC ACG TGC GTC CCC GAC CCC TGG AGA TGG CCC TGG GCC GCA GCT CCC TCT CTG GAT GGG ATC CCG GGA GAG GGG CAG CGT TGG CTT GGG CTC TTG AAG GTG TGG GCC GCC GCC AGG CTC CGG CCG CCC CCT TGC GTT CCT CCC TCG GGA CCG TCT GGC TGG CTG CGC ACA GCT TCT TCG GTC TCC TGC CAT GGT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TCT CCT TCT CTG GCC CAT CCG GCC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+macFas_LOC102130591_XM_015448274  CGC TGC CTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTT CCC TGC CCC GAG TGC GGC CGC TGC TTC AGT CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGT GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+macMul_LOC713120_XM_028846451   GGC TGC CTT CGT GTG CCC CGA GTG CGG CAA GGC CTT CAG CGT CAA GCA CAA CCT CGA GGT GCA CCA GCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CAC GCA CAC CGG GGA GCG GCC CTT TCC CTG CCC CGA GTG CGG CCG CTG CTT CAG TCT CAA GCA GAA CCT GCT CAC GCA CCA GCG TAT CCA CAG CGG CGA GAA GCC GCA CCA GTG TGC GCA GTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCG CTG CTT CCG CGA GTC GCG CTT CCT GCT CAA CCA CCA GCG CAC CCA CGC GCG CAT GCC CGC GCC CCA CCC GCG CCG CCC CGG CGT TTT CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GGA GCG GCG GCC --- --- --- --- --- CTA CTT CTG CCC CCG CTG CGG CAA GAG CTT CGC GCG CGA GGG CTC GCT CAA GAC CCA TCA GCG CAG CCA CGG CCA CGG GCC CGA GGG CCA GGC GGC CCA CTT AGG ACG CGT GCT ATG ATG CGC CCG GGG CCT GCT GCC GAC TGC TGC TTC CTG CCC CGC ACG TGC GTC CCC GAC CCC TGG AGA TGG CCC TGG GCT GCA GCT CCC TCT CTG GAT GGG ATC CCG GGA GAG GGG CAG CGT TGG CTT GGG CTC TTG AAG GTG TGG GCC GCC GCC AGG CTC CGG CCG CCC CCT TGC GTT CCT CCC TCG GGA CCG TCT GGC TGG CTG CGC ACA GCT GCT TCG GTC TCC TGC CAT GGT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TCT CCT TCT CTG GCC CAT CCG GCC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+macMul_LOC713120_XM_028846457   CGC TGC CTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTT CCC TGC CCC GAG TGC GGC CGC TGC TTC AGT CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGT GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+macNem_ZNF775_XM_024790709      CGC TGC CTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTT CCC TGC CCC GAG TGC GGC CGC TGC TTC AGT CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGT GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+manLeu_ZNF775_XM_011966624      CGC TGC CTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTT CCC TGC CCC GAG TGC GGC CGC TGC TTC AGT CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGT GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+nomLeu_LOC100587757_XM_012512291  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCG CAC GCC GGA GCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGT CCG GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGC ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG CCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCG CAC CCG CGC CGC CCC GGC GTC TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCA CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCG CTG AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+otoGar_LOC105887201_XM_012806522  CGG TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGT GGC CAG ACC TTC TCC CAG CAG CCT AGC CTG GTG CGG CAC CAG AAG GCG CAC GCT GGC GCA GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ACA GCT GCC TTT GTG TGT CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACA CAC ACT GGG GAG CGG CCC TTC CCC TGC CCC GAC TGC GGC CGC TGC TTC AGC CTA AAG CAG AAC CTG CTC ACG CAC CAG CGC ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG CCA CGC TTC CTG CTC AAC CAC CAG CGT ACC CAC GCG CGC ATG CCC GCG CCG CAC CCG CGC CGT CCT GGC GTC TTT GGG GAG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGG GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG AGC CAG GCG GCC CAC GTA GGC CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+panPan_LOC100984200_XM_034965231  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCG CAC GCC GGA GCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGT CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGA ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG CCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCG CAC CCG CGC CGC CCC GGC GTC TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+panTro_LOC100612560_XM_009454535  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCG CAC GCC GGA GCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGT CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGA ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG CCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCG CAC CCG CGC CGC CCC GGC GTC TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+papAnu_LOC101012338_XR_002521232  CGC TGC CTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GGG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTT CCC TGC CCC GAG TGC GGC CGC TGC TTC AGT CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+pilTep_LOC111551535_XM_023225564  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGT GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+ponAbe_LOC112134297_XM_024249562  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCG CAC GCC GGA GTG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGT CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGG GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGC ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG CCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCG CAC CCG CGC CGC CCC GGC GTC TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCG CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAT GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGC GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+rhiBie_ZNF775_XM_017887803      CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACT CAC ACC GGA GAG CGC CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGT GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+rhiRox_LOC104675257_XM_030931956  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCG GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGA GAG CGC CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCG CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGT GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+theGel_LOC112620139_XM_025378336  GGC TGC ATT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CAT TCC CTC CGG GAG CTG GGG CTT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCA GTC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GGT GGG --- --- --- --- --- --- --- --- --- --- --- --- TTG CGG CAG CAG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GGT GGA GGC CTA CGT ATT TTC GTG GGG GTG GGG TTG CGA CGC AGA GTT TAC CAT ATT TCT CCA GGG TTG CTC AGG CCG CAG AAG TTG GCA AGG TTG TGT CTG AGG TCG GGT GGG GTG GGG TCA GCT CTC CCG ATT AAT GCA GCT ATT 
+traFra_LOC117073327_XM_033194119  CGC TGC CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTG TGC GGC CAG ACC TTC TCG CAG CAG CCC AGC CTG GTG CGG CAC CAG AAG GCA CAC GCC GGG TCG GGC CGC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GCA GCT GCC TTC GTG TGC CCC GAG TGC GGC AAG GCC TTC AGC GTC AAG CAC AAC CTC GAG GTG CAC CAG CGC ACG CAC ACC GGA GAG CGG CCC TTC CCC TGC CCC GAG TGC GGC CGC TGC TTC AGC CTC AAG CAG AAC CTG CTC ACG CAC CAG CGT ATC CAC AGC GGC GAG AAG CCG CAC CAG TGC GCA CAG TGC GGC CGC TGC TTC CGC GAG TCG CGC TTC CTG CTC AAC CAC CAG CGC ACC CAC GCG CGC ATG CCC GCG CCC CAC CCG CGC CGC CCC GGC GTT TTC GGG GAG CGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CGG CCC TAC TTC TGC CCC CGC TGC GGC AAG AGC TTC GCA CGC GAG GGC TCG CTC AAG ACC CAT CAG CGC AGC CAC GGC CAC GGG CCC GAG GGC CAG GCG GCC CAC TTA GGA CGT GTG CTA --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+
+
+Printing out site pattern counts
+
+
+        21        576  P
+
+calJac_LOC100895615_XM_035254406   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ACG ACG AGA AGA AGC AGG ATC ATG ATG CAA CAA CAC CAC CAC CAC CAG CAG CAT CAT CAT CCA CCA CCA CCA CCC CCC CCC CCG CCG CCG CCT CCT CCT CCT CGA CGC CGC CGC CGG CGG CGG CGG CGT CGT CTA CTC CTC CTC CTG CTG CTG CTT CTT CTT CTT GAA GAC GAG GAG GAT GCA GCA GCA GCC GCC GCC GCC GCC GCC GCC GCG GCG GCG GCG GCT GCT GCT GGA GGA GGA GGC GGC GGC GGC GGG GGT GGT GTC GTG GTG GTG GTT TCA TCC TCC TCC TCC TCG TCT TCT TGC TGG TGG TGG TTC TTG
+chlSab_LOC103227212_XM_037990954   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGT ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGC CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCA GCC GCG GCG GGA GGC GGG GGG GGG GTC GTG GTT TAC TCA TCC TCG TCG TGC TGC TGC TGC TGC TTA TTC TTC TTT --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CTG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+gorGorGor_LOC101140790_XM_019031179   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCG GCC CCG CGC CGC CGC CGC CGG CGG CGC CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTC TAC TCG CCC CCG TCG TGC TGC TGC TGC TGT TTA TTC TTC TTC --- --- --- GGA --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCG --- --- --- --- --- GCC GGC --- CAG GCG GCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+homSap_novelZNF_ENSG00000284691   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCG CCC CCG CGC CGC CGC CGC CGG CGG CGC CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTC TAC TCG CCC CCG TCG TGC TGC TGC TGC TGT TTA TTC TTC TTC --- --- --- GGA --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCG --- --- --- --- --- GCC GGC --- CAG GCG GCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+macFas_LOC102130591_XM_015448271   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ACG GCG AGA GGA GGC AGG ATC AAG ATG CAA CAA CAC CGC CAC CAC CAG GAG CAT CAT TAT CCA CCG TCA GCA CCC CCG TCC ACG CCG CCG CCT CCT GCC TCT CGA CGC TGC TGC CGG CGG CGG CGG CGC CGT CTA CGC CTC GGC CCG CTG CTG CTT TTT CTT CTT GAA GAC GAG GGG GAT CCA GCA GCA GCC GCC GCC GCT GTC GCC GCC GCG GCG GCG GCG GCC GCT TCT CGA GGA GGA CGT GGC GTC GGC GGG GGT GGT GTC GGA GTG GTG GTT ACA CCC TCC TCT TCT TCG TCT TCT TGC CGG TGG CGG TTC TTG
+macFas_LOC102130591_XM_015448274   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGT ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGC CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGT TGC TTA TTC TTC TTT --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CTG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+macMul_LOC713120_XM_028846451    --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ACG GCG AGA GGA GGC AGG ATC AAG ATG CAA CAA CAC CGC CAC CAC CAG GAG CAT CAT TAT CCA CCG TCA GCA CCC CCG TCC ACG CCG CCG CCT CCT GCC TCT CGA CGC TGC TGC CGG CGG CGG CGG CGC CGT CTA CGC CTC GGC CCG CTG CTG CTT TTT CTT CTT GAA GAC GAG GGG GAT CCA GCA GCA GCC GCC GCC GCT GTC GCC GCC GCG GCG GCG GCG GCT GCT GCT CGA GGA GGA CGT GGC GTC GGC GGG GGT GGT GTC GGA GTG GTG GTT ACA CCC TCC TCT TCT TCG TCT TCT TGC CGG TGG CGG TTC TTG
+macMul_LOC713120_XM_028846457    --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGT ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGC CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGT TGC TTA TTC TTC TTT --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CTG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+macNem_ZNF775_XM_024790709       --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGT ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGC CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGT TGC TTA TTC TTC TTT --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CTG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+manLeu_ZNF775_XM_011966624       --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGT ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGC CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCA GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGT TGC TTA TTC TTC TTT --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CTG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+nomLeu_LOC100587757_XM_012512291   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCA CCC CCC CCG CCG CCG CGC CGC CGC CGC CGG CGG CGC CTC CTC CTG CTG GAG GAG GCA GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTC TAC TCG CCC CCG TCG TGC TGC TGC TGC TGT TTA TTC TTC TTC --- --- --- GGA --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCG --- --- --- --- --- GCC GGC --- CAG GCG GCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+otoGar_LOC105887201_XM_012806522   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACT ACA ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCT CCG CCC CCG CGC CGC CGG CGT CGG CGG CGC CTA CTC CTC CTG GAC GAG GCG GCC GCG GCG GGC GGC GGC GGG GGG GTC GTG GTC TAC TCG CCC CCA TCC TGC TGC TGT TGC TGT GTA TTC TTT TTC --- --- --- GGC --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- ACA --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- AGG GCT --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCG --- --- --- --- --- GCC GGC --- CAG GCG GCA --- --- --- --- --- AGC --- --- --- CGG --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+panPan_LOC100984200_XM_034965231   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCG CCC CCG CGC CGC CGC CGC CGG CGG CGA CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTC TAC TCG CCC CCG TCG TGC TGC TGC TGC TGT TTA TTC TTC TTC --- --- --- GGA --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCG --- --- --- --- --- GCC GGC --- CAG GCG GCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+panTro_LOC100612560_XM_009454535   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCG CCC CCG CGC CGC CGC CGC CGG CGG CGA CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTC TAC TCG CCC CCG TCG TGC TGC TGC TGC TGT TTA TTC TTC TTC --- --- --- GGA --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCG --- --- --- --- --- GCC GGC --- CAG GCG GCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+papAnu_LOC101012338_XR_002521232   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGT ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGC CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCA GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGC TGC TTA TTC TTC TTT --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GGG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CTG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+pilTep_LOC111551535_XM_023225564   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGC CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCA GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGT TGC TGC TGC TTA TTC TTC TTC --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+ponAbe_LOC112134297_XM_024249562   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAT CAG CAT CCC CCC CCC CCG CCC CCG CGC CGC CGC CGC CGG CGG CGC CTC CTC CTC CTG GAG GAG GCG GCC GCG GCG GGA GGC GGC GGG GGG GTC GTG GTC TAC TCG CCC CCG TCG TGC TGC TGC TGC TGT TTA TTC TTC TTC --- --- --- GGA --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCG --- --- --- --- --- GCC GGC --- CAG GCG GTG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+rhiBie_ZNF775_XM_017887803       --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACT ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGT CGC CGC CGC CGG CGT CTC CTC CTC CTG GAG GAG GCA GCC GCG GCG GGA GGC GGC GGA GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGC TGC TTA TTC TTC TTC --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+rhiRox_LOC104675257_XM_030931956   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGT CGC CGC CGC CGG CGT CTC CTC CTC CTG GAG GAG GCA GCC GCG GCG GGA GGC GGC GGA GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGC TGC TTA TTC TTC TTC --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCG --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+theGel_LOC112620139_XM_025378336   AAG AAT AGA AGG ATT CAT CCG CGA CGC CGT CTA CTC CTG GCA GCT GGA GGC GGG GGT GTG GTT TAC TCA TCG TGT TTC TTG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GAG --- --- --- --- --- --- CAG --- --- CAT CTC --- --- --- AGG --- --- --- --- GCA --- --- --- --- --- CCG --- CCA --- --- --- --- --- TGC --- CGG GGG CGG --- --- --- --- --- --- --- --- TTG --- --- CTT ATT --- --- CAG --- --- --- --- TCC --- CAG CTC --- --- --- GGG --- GGG --- CTG --- --- --- --- --- GGT --- --- --- GGC --- --- GGT --- --- --- GTC --- --- --- --- --- GGG --- --- TCT --- --- --- CGG --- ---
+traFra_LOC117073327_XM_033194119   --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAC AAG ACC ACC ACG ACG AGC AGC ATC ATG CAC CAC CAG CAT CCC CCC CCC CCC CCC CCG CGC CGT CGC CGC CGG CGG CGT CTC CTC CTC CTG GAG GAG GCA GCC GCA GCG GGA GGC GGC GGA GGG GTC GTG GTT TAC TCG CCC TCG TCG TGC TGC TGC TGC TGC TTA TTC TTC TTC --- --- --- GGG --- --- --- --- --- --- --- --- --- AAG CAC --- --- --- --- --- --- --- --- GCA --- --- --- --- --- --- --- --- --- --- --- --- --- TGC --- --- CGG GCC --- --- CTA --- --- --- --- --- --- --- --- CGC CCG --- --- --- --- --- --- --- GCA --- --- --- --- --- GCC GGC --- CAG GCG TCG --- --- --- --- --- GGC --- --- --- CGC --- --- --- --- --- --- GCT --- --- --- --- --- --- --- --- --- --- --- --- CGG --- ---
+
+
+
+    1    1    1    2    4    1    1    1    1    1    1    1    1    2    2
+    1    1    4    1    3    1    1    1    1    1    1    3    3    6    3
+    1    1    1    5    1    1    1   12    1   11    1    1    5    2    1
+    1    2    9    1    1    2    1    1    1    1    3    1    4    1    8
+    1    2    1    2    1    8    1    1    2    1    4    1    1    1    1
+    1    1    7    1    1    1    1    1    7    2    1    1    1    1    1
+    1    2    1    1    2    6    1    2    1    1    1    5    1    2    1
+    1   11    1    1    1   10    1    1    1    6    1    6    1    1    1
+    6    3    1    1    6    1    1    1    1    4    1    1    3    1    1
+    7    2    8    1    1    1    2    3    1    1    1    2    6    1    7
+    1    1    1    1    1    1    7    1    1    1    1    6    1    1    1
+    1    1    2    1    1    5    1    1    1    1    5    1    1    1    2
+    1    1    1    2    1    1    5    1    6    1    1    1
+
+CODONML (in paml version 4.9, March 2015)  algn
+Model: One dN/dS ratio for branches, 
+Codon frequency model: F3x4
+Site-class models:  PositiveSelection
+ns =  21  ls = 411
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   1   0   0   1   1 | Ser TCT   2   0   0   0   6   0 | Tyr TAT   0   0   0   0   1   0 | Cys TGT   0   0   1   1   0   1
+    TTC   1   9  10  10   1   9 |     TCC   5   1   0   0   2   0 |     TAC   0   1   1   1   0   1 |     TGC   5  12  11  11   7  11
+Leu TTA   0   1   1   1   0   1 |     TCA   1   1   0   0   1   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   0   0   0   1   0 |     TCG   2   3   2   2   2   4 |     TAG   0   0   0   0   0   0 | Trp TGG   8   0   0   0   6   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT  11   0   0   0  10   0 | Pro CCT   9   0   0   0   7   0 | His CAT   4   1   1   1   3   1 | Arg CGT   5   1   0   0   5   1
+    CTC   5   5   5   5   3   5 |     CCC  12  10   9  10  12  11 |     CAC   5  14  14  14   4  14 |     CGC   5  15  16  16   6  15
+    CTA   1   1   1   1   1   1 |     CCA  14   0   0   0  13   0 | Gln CAA   7   0   0   0   7   0 |     CGA   6   0   0   0   7   0
+    CTG  10   5   4   4   9   5 |     CCG   8   2   5   5  10   2 |     CAG   6  12  12  12   5  12 |     CGG   9   4   4   4  11   4
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   0   0   0   0   0   0 | Thr ACT   0   0   0   0   0   0 | Asn AAT   0   0   0   0   0   0 | Ser AGT   0   1   0   0   0   1
+    ATC   1   1   1   1   1   1 |     ACC   0   4   4   4   0   4 |     AAC   0   3   3   3   0   3 |     AGC   1   5   6   6   0   5
+    ATA   0   0   0   0   0   0 |     ACA   0   0   0   0   1   0 | Lys AAA   0   0   0   0   0   0 | Arg AGA   2   0   0   0   1   0
+Met ATG   3   1   1   1   2   1 |     ACG   2   2   2   2   2   2 |     AAG   0   7   7   7   1   7 |     AGG   2   0   0   0   2   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   1   0   0   1   1 | Ala GCT   8   1   1   1   7   1 | Asp GAT   1   0   0   0   1   0 | Gly GGT   2   0   0   0   2   0
+    GTC   1   1   2   2   3   1 |     GCC  13   4   5   4  13   4 |     GAC   3   0   0   0   3   0 |     GGC   5  10  11  11   5  11
+    GTA   0   0   0   0   0   0 |     GCA   9   2   0   0   8   1 | Glu GAA   2   0   0   0   2   0 |     GGA   3   1   2   2   4   1
+    GTG   7   4   4   4   6   4 |     GCG  10   5   8   8  11   6 |     GAG   2   9   9   9   2   9 |     GGG   5   5   3   3   6   4
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   1   1   1   1   0   2 | Ser TCT   5   0   0   0   0   0 | Tyr TAT   1   0   0   0   0   0 | Cys TGT   0   1   1   1   1   2
+    TTC   1   9   9   9  10   8 |     TCC   2   0   0   0   0   1 |     TAC   0   1   1   1   1   1 |     TGC   7  11  11  11  11  10
+Leu TTA   0   1   1   1   1   0 |     TCA   1   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   0   0   0   0   0 |     TCG   2   4   4   4   2   1 |     TAG   0   0   0   0   0   0 | Trp TGG   6   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT  10   0   0   0   0   0 | Pro CCT   7   0   0   0   0   2 | His CAT   3   1   1   1   1   1 | Arg CGT   5   1   1   1   0   2
+    CTC   3   5   5   5   4   4 |     CCC  12  11  11  11   8   8 |     CAC   4  14  14  14  14  14 |     CGC   6  15  15  15  16  12
+    CTA   1   1   1   1   1   2 |     CCA  13   0   0   0   1   1 | Gln CAA   7   0   0   0   0   0 |     CGA   7   0   0   0   0   0
+    CTG   9   5   5   5   5   4 |     CCG  10   2   2   2   6   4 |     CAG   5  12  12  12  12  12 |     CGG  11   4   4   4   4   5
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   0   0   0   0   0   0 | Thr ACT   0   0   0   0   0   1 | Asn AAT   0   0   0   0   0   0 | Ser AGT   0   1   1   1   0   0
+    ATC   1   1   1   1   1   1 |     ACC   0   4   4   4   4   3 |     AAC   0   3   3   3   3   3 |     AGC   0   5   5   5   6   7
+    ATA   0   0   0   0   0   0 |     ACA   1   0   0   0   0   2 | Lys AAA   0   0   0   0   0   0 | Arg AGA   1   0   0   0   0   0
+Met ATG   2   1   1   1   1   1 |     ACG   2   2   2   2   2   1 |     AAG   1   7   7   7   7   7 |     AGG   2   0   0   0   0   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   1   1   1   0   0 | Ala GCT   9   1   1   1   1   2 | Asp GAT   1   0   0   0   0   0 | Gly GGT   2   0   0   0   0   0
+    GTC   3   1   1   1   2   2 |     GCC  12   4   4   4   4   3 |     GAC   3   0   0   0   0   1 |     GGC   5  11  11  11  11  12
+    GTA   0   0   0   0   0   1 |     GCA   8   1   1   2   1   1 | Glu GAA   2   0   0   0   0   0 |     GGA   4   1   1   1   2   0
+    GTG   6   4   4   4   4   4 |     GCG  11   6   6   5   7   6 |     GAG   2   9   9   9   9   8 |     GGG   6   4   4   4   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   0   1   0   0   0 | Ser TCT   0   0   0   0   0   0 | Tyr TAT   0   0   0   0   0   0 | Cys TGT   1   1   0   1   1   0
+    TTC  10  10   9  10  10  10 |     TCC   0   0   0   0   0   0 |     TAC   1   1   1   1   1   1 |     TGC  11  11  12  11  11  12
+Leu TTA   1   1   1   1   1   1 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   0   0   0   0   0 |     TCG   2   2   4   4   2   4 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   0   0   0   0   0   0 | Pro CCT   0   0   0   0   0   0 | His CAT   1   1   1   1   2   1 | Arg CGT   0   0   1   1   0   2
+    CTC   5   5   5   5   5   5 |     CCC  10  10  11  11  10  11 |     CAC  14  14  14  14  13  14 |     CGC  15  15  15  15  16  15
+    CTA   1   1   1   1   1   1 |     CCA   0   0   0   0   0   0 | Gln CAA   0   0   0   0   0   0 |     CGA   1   1   0   0   0   0
+    CTG   4   4   5   4   4   4 |     CCG   5   5   2   3   5   3 |     CAG  12  12  12  12  12  12 |     CGG   4   4   4   4   4   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   0   0   0   0   0   0 | Thr ACT   0   0   0   0   0   1 | Asn AAT   0   0   0   0   0   0 | Ser AGT   0   0   1   0   0   0
+    ATC   1   1   1   1   1   1 |     ACC   4   4   4   4   4   4 |     AAC   3   3   3   3   3   3 |     AGC   6   6   5   6   6   6
+    ATA   0   0   0   0   0   0 |     ACA   0   0   0   0   0   0 | Lys AAA   0   0   0   0   0   0 | Arg AGA   0   0   0   0   0   0
+Met ATG   1   1   1   1   1   1 |     ACG   2   2   2   2   2   1 |     AAG   7   7   7   7   7   7 |     AGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   0   1   1   0   1 | Ala GCT   1   1   1   1   1   1 | Asp GAT   0   0   0   0   0   0 | Gly GGT   0   0   0   0   0   0
+    GTC   2   2   1   1   2   1 |     GCC   4   4   4   4   4   4 |     GAC   0   0   0   0   0   0 |     GGC  11  11  11  11  11  11
+    GTA   0   0   0   0   0   0 |     GCA   0   0   2   2   0   2 | Glu GAA   0   0   0   0   0   0 |     GGA   2   2   1   1   2   2
+    GTG   4   4   4   4   5   4 |     GCG   8   8   4   5   7   5 |     GAG   9   9   9   9   9   9 |     GGG   3   3   5   4   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+Phe TTT   0   0   0 | Ser TCT   0   1   0 | Tyr TAT   0   0   0 | Cys TGT   0   1   0
+    TTC  10   1  10 |     TCC   0   1   0 |     TAC   1   1   1 |     TGC  12   1  12
+Leu TTA   1   0   1 |     TCA   0   1   0 | *** TAA   0   0   0 | *** TGA   0   0   0
+    TTG   0   5   0 |     TCG   4   1   4 |     TAG   0   0   0 | Trp TGG   0   0   0
+--------------------------------------------------------------------------------------
+Leu CTT   0   1   0 | Pro CCT   0   0   0 | His CAT   1   2   1 | Arg CGT   2   1   2
+    CTC   5   3   5 |     CCC  11   0  11 |     CAC  14   0  14 |     CGC  15   1  14
+    CTA   1   1   1 |     CCA   0   1   0 | Gln CAA   0   0   0 |     CGA   0   1   0
+    CTG   4   2   4 |     CCG   3   2   3 |     CAG  12   3  12 |     CGG   3   3   4
+--------------------------------------------------------------------------------------
+Ile ATT   0   5   0 | Thr ACT   0   0   0 | Asn AAT   0   1   0 | Ser AGT   0   0   0
+    ATC   1   0   1 |     ACC   4   0   4 |     AAC   3   0   3 |     AGC   6   0   6
+    ATA   0   0   0 |     ACA   0   0   0 | Lys AAA   0   0   0 | Arg AGA   0   1   0
+Met ATG   1   0   1 |     ACG   2   0   2 |     AAG   7   1   7 |     AGG   0   3   0
+--------------------------------------------------------------------------------------
+Val GTT   1   1   1 | Ala GCT   1   2   1 | Asp GAT   0   0   0 | Gly GGT   0   3   0
+    GTC   1   1   1 |     GCC   4   0   4 |     GAC   0   0   0 |     GGC  11   2  11
+    GTA   0   0   0 |     GCA   2   3   4 | Glu GAA   0   0   0 |     GGA   2   1   2
+    GTG   4   3   4 |     GCG   5   0   3 |     GAG   9   1   9 |     GGG   3   8   3
+--------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: calJac_LOC100895615_XM_035254406
+position  1:    T:0.11111    C:0.52000    A:0.04889    G:0.32000
+position  2:    T:0.18667    C:0.42222    A:0.13333    G:0.25778
+position  3:    T:0.19111    C:0.27556    A:0.20000    G:0.33333
+Average         T:0.16296    C:0.40593    A:0.12741    G:0.30370
+
+#2: chlSab_LOC103227212_XM_037990954
+position  1:    T:0.17470    C:0.42169    A:0.14458    G:0.25904
+position  2:    T:0.18072    C:0.21084    A:0.28313    G:0.32530
+position  3:    T:0.03614    C:0.57229    A:0.03614    G:0.35542
+Average         T:0.13052    C:0.40161    A:0.15462    G:0.31325
+
+#3: gorGorGor_LOC101140790_XM_019031179
+position  1:    T:0.15663    C:0.42771    A:0.14458    G:0.27108
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.01807    C:0.59036    A:0.02410    G:0.36747
+Average         T:0.11647    C:0.41165    A:0.15060    G:0.32129
+
+#4: homSap_novelZNF_ENSG00000284691
+position  1:    T:0.15663    C:0.43373    A:0.14458    G:0.26506
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.01807    C:0.59036    A:0.02410    G:0.36747
+Average         T:0.11647    C:0.41365    A:0.15060    G:0.31928
+
+#5: macFas_LOC102130591_XM_015448271
+position  1:    T:0.12444    C:0.50222    A:0.04444    G:0.32889
+position  2:    T:0.17333    C:0.42222    A:0.12889    G:0.27556
+position  3:    T:0.19556    C:0.26667    A:0.20000    G:0.33778
+Average         T:0.16444    C:0.39704    A:0.12444    G:0.31407
+
+#6: macFas_LOC102130591_XM_015448274
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.18072    C:0.21084    A:0.28313    G:0.32530
+position  3:    T:0.04217    C:0.57229    A:0.02410    G:0.36145
+Average         T:0.13052    C:0.40361    A:0.15060    G:0.31526
+
+#7: macMul_LOC713120_XM_028846451
+position  1:    T:0.12000    C:0.50222    A:0.04444    G:0.33333
+position  2:    T:0.17333    C:0.42222    A:0.12889    G:0.27556
+position  3:    T:0.20000    C:0.26222    A:0.20000    G:0.33778
+Average         T:0.16444    C:0.39556    A:0.12444    G:0.31556
+
+#8: macMul_LOC713120_XM_028846457
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.18072    C:0.21084    A:0.28313    G:0.32530
+position  3:    T:0.04217    C:0.57229    A:0.02410    G:0.36145
+Average         T:0.13052    C:0.40361    A:0.15060    G:0.31526
+
+#9: macNem_ZNF775_XM_024790709
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.18072    C:0.21084    A:0.28313    G:0.32530
+position  3:    T:0.04217    C:0.57229    A:0.02410    G:0.36145
+Average         T:0.13052    C:0.40361    A:0.15060    G:0.31526
+
+#10: manLeu_ZNF775_XM_011966624
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.18072    C:0.21084    A:0.28313    G:0.32530
+position  3:    T:0.04217    C:0.57229    A:0.03012    G:0.35542
+Average         T:0.13052    C:0.40361    A:0.15261    G:0.31325
+
+#11: nomLeu_LOC100587757_XM_012512291
+position  1:    T:0.15663    C:0.43373    A:0.14458    G:0.26506
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.01807    C:0.57229    A:0.03614    G:0.37349
+Average         T:0.11647    C:0.40763    A:0.15462    G:0.32129
+
+#12: otoGar_LOC105887201_XM_012806522
+position  1:    T:0.15060    C:0.42771    A:0.16265    G:0.25904
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.07229    C:0.54217    A:0.04217    G:0.34337
+Average         T:0.13253    C:0.39558    A:0.16265    G:0.30924
+
+#13: panPan_LOC100984200_XM_034965231
+position  1:    T:0.15663    C:0.43373    A:0.14458    G:0.26506
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.01807    C:0.58434    A:0.03012    G:0.36747
+Average         T:0.11647    C:0.41165    A:0.15261    G:0.31928
+
+#14: panTro_LOC100612560_XM_009454535
+position  1:    T:0.15663    C:0.43373    A:0.14458    G:0.26506
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.01807    C:0.58434    A:0.03012    G:0.36747
+Average         T:0.11647    C:0.41165    A:0.15261    G:0.31928
+
+#15: papAnu_LOC101012338_XR_002521232
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.18072    C:0.20482    A:0.28313    G:0.33133
+position  3:    T:0.03614    C:0.57831    A:0.03012    G:0.35542
+Average         T:0.12851    C:0.40361    A:0.15261    G:0.31526
+
+#16: pilTep_LOC111551535_XM_023225564
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.03012    C:0.58434    A:0.03012    G:0.35542
+Average         T:0.12450    C:0.40964    A:0.15261    G:0.31325
+
+#17: ponAbe_LOC112134297_XM_024249562
+position  1:    T:0.15663    C:0.43373    A:0.14458    G:0.26506
+position  2:    T:0.18072    C:0.21084    A:0.28313    G:0.32530
+position  3:    T:0.02410    C:0.58434    A:0.02410    G:0.36747
+Average         T:0.12048    C:0.40964    A:0.15060    G:0.31928
+
+#18: rhiBie_ZNF775_XM_017887803
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.03614    C:0.59036    A:0.03614    G:0.33735
+Average         T:0.12651    C:0.41165    A:0.15462    G:0.30723
+
+#19: rhiRox_LOC104675257_XM_030931956
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.03012    C:0.59036    A:0.03614    G:0.34337
+Average         T:0.12450    C:0.41165    A:0.15462    G:0.30924
+
+#20: theGel_LOC112620139_XM_025378336
+position  1:    T:0.18571    C:0.30000    A:0.15714    G:0.35714
+position  2:    T:0.32857    C:0.17143    A:0.12857    G:0.37143
+position  3:    T:0.25714    C:0.15714    A:0.12857    G:0.45714
+Average         T:0.25714    C:0.20952    A:0.13810    G:0.39524
+
+#21: traFra_LOC117073327_XM_033194119
+position  1:    T:0.16867    C:0.42771    A:0.14458    G:0.25904
+position  2:    T:0.17470    C:0.21687    A:0.28313    G:0.32530
+position  3:    T:0.03012    C:0.58434    A:0.04819    G:0.33735
+Average         T:0.12450    C:0.40964    A:0.15863    G:0.30723
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      10 | Ser S TCT      14 | Tyr Y TAT       2 | Cys C TGT      14
+      TTC     166 |       TCC      12 |       TAC      18 |       TGC     211
+Leu L TTA      16 |       TCA       5 | *** * TAA       0 | *** * TGA       0
+      TTG       8 |       TCG      59 |       TAG       0 | Trp W TGG      20
+------------------------------------------------------------------------------
+Leu L CTT      32 | Pro P CCT      25 | His H CAT      30 | Arg R CGT      31
+      CTC      97 |       CCC     210 |       CAC     250 |       CGC     273
+      CTA      22 |       CCA      43 | Gln Q CAA      21 |       CGA      23
+      CTG     105 |       CCG      89 |       CAG     223 |       CGG     101
+------------------------------------------------------------------------------
+Ile I ATT       5 | Thr T ACT       2 | Asn N AAT       1 | Ser S AGT       6
+      ATC      20 |       ACC      67 |       AAC      51 |       AGC      98
+      ATA       0 |       ACA       4 | Lys K AAA       0 | Arg R AGA       5
+Met M ATG      24 |       ACG      38 |       AAG     122 |       AGG      10
+------------------------------------------------------------------------------
+Val V GTT      14 | Ala A GCT      44 | Asp D GAT       3 | Gly G GGT       9
+      GTC      32 |       GCC     106 |       GAC      10 |       GGC     204
+      GTA       1 |       GCA      49 | Glu E GAA       6 |       GGA      37
+      GTG      91 |       GCG     134 |       GAG     159 |       GGG      85
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.15559    C:0.44155    A:0.12700    G:0.27586
+position  2:    T:0.18026    C:0.25259    A:0.25119    G:0.31595
+position  3:    T:0.06784    C:0.51163    A:0.06504    G:0.35548
+Average         T:0.13457    C:0.40193    A:0.14774    G:0.31576
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00194098  0.01463756  0.00186078  0.01017010
+  0.00271979  0.02051080  0.00260740  0.01425079
+  0.00270469  0.02039698  0.00000000  0.00000000
+  0.00340200  0.02565557  0.00000000  0.01782535
+  0.00550819  0.04153903  0.00528058  0.02886109
+  0.00771832  0.05820632  0.00739938  0.04044143
+  0.00767549  0.05788331  0.00735832  0.04021701
+  0.00965432  0.07280635  0.00925538  0.05058546
+  0.00158426  0.01194742  0.00151879  0.00830100
+  0.00221994  0.01674125  0.00212820  0.01163173
+  0.00220762  0.01664834  0.00211639  0.01156718
+  0.00277677  0.02094049  0.00266202  0.01454934
+  0.00344131  0.02595200  0.00329910  0.01803131
+  0.00482211  0.03636509  0.00462285  0.02526627
+  0.00479535  0.03616329  0.00459720  0.02512605
+  0.00603165  0.04548664  0.00578241  0.03160387
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Pairwise deletion)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+calJac_LOC100895615_XM_035254406
+chlSab_LOC103227212_XM_037990954 0.9814 (0.5004 0.5099)
+gorGorGor_LOC101140790_XM_019031179 0.9631 (0.4975 0.5165) 0.1389 (0.0134 0.0965)
+homSap_novelZNF_ENSG00000284691 0.9631 (0.4975 0.5165) 0.1109 (0.0107 0.0965)-1.0000 (0.0027 0.0000)
+macFas_LOC102130591_XM_015448271 1.4878 (0.0758 0.0509) 0.6816 (0.3359 0.4929) 0.6696 (0.3342 0.4991) 0.6696 (0.3342 0.4991)
+macFas_LOC102130591_XM_015448274 0.9814 (0.5004 0.5099) 0.0792 (0.0027 0.0336) 0.1371 (0.0107 0.0780) 0.1026 (0.0080 0.0780) 0.6816 (0.3359 0.4929)
+macMul_LOC713120_XM_028846451 1.6075 (0.0734 0.0457) 0.6816 (0.3359 0.4929) 0.6696 (0.3342 0.4991) 0.6696 (0.3342 0.4991) 0.4351 (0.0021 0.0049) 0.6816 (0.3359 0.4929)
+macMul_LOC713120_XM_028846457 0.9814 (0.5004 0.5099) 0.0792 (0.0027 0.0336) 0.1371 (0.0107 0.0780) 0.1026 (0.0080 0.0780) 0.6816 (0.3359 0.4929)-1.0000 (0.0000 0.0000) 0.6816 (0.3359 0.4929)
+macNem_ZNF775_XM_024790709 0.9814 (0.5004 0.5099) 0.0792 (0.0027 0.0336) 0.1371 (0.0107 0.0780) 0.1026 (0.0080 0.0780) 0.6816 (0.3359 0.4929)-1.0000 (0.0000 0.0000) 0.6816 (0.3359 0.4929)-1.0000 (0.0000 0.0000)
+manLeu_ZNF775_XM_011966624 0.9814 (0.5004 0.5099) 0.1062 (0.0027 0.0251) 0.1227 (0.0107 0.0872) 0.0918 (0.0080 0.0872) 0.6816 (0.3359 0.4929)-1.0000 (0.0000 0.0083) 0.6816 (0.3359 0.4929)-1.0000 (0.0000 0.0083)-1.0000 (0.0000 0.0083)
+nomLeu_LOC100587757_XM_012512291 0.9631 (0.4975 0.5165) 0.0929 (0.0107 0.1153) 0.0789 (0.0027 0.0337)-1.0000 (0.0000 0.0337) 0.6696 (0.3342 0.4991) 0.0695 (0.0080 0.1153) 0.6696 (0.3342 0.4991) 0.0695 (0.0080 0.1153) 0.0695 (0.0080 0.1153) 0.0757 (0.0080 0.1058)
+otoGar_LOC105887201_XM_012806522 0.7244 (0.5858 0.8087) 0.0717 (0.0215 0.3003) 0.0716 (0.0134 0.1868) 0.0572 (0.0107 0.1868) 0.5023 (0.4285 0.8532) 0.0681 (0.0188 0.2762) 0.5023 (0.4285 0.8532) 0.0681 (0.0188 0.2762) 0.0681 (0.0188 0.2762) 0.0653 (0.0188 0.2882) 0.0465 (0.0107 0.2300)
+panPan_LOC100984200_XM_034965231 0.9631 (0.4975 0.5165) 0.1112 (0.0107 0.0963) 0.3213 (0.0027 0.0083)-1.0000 (0.0000 0.0083) 0.6696 (0.3342 0.4991) 0.1029 (0.0080 0.0779) 0.6696 (0.3342 0.4991) 0.1029 (0.0080 0.0779) 0.1029 (0.0080 0.0779) 0.0921 (0.0080 0.0871)-1.0000 (0.0000 0.0423) 0.0543 (0.0107 0.1970)
+panTro_LOC100612560_XM_009454535 0.9631 (0.4975 0.5165) 0.1112 (0.0107 0.0963) 0.3213 (0.0027 0.0083)-1.0000 (0.0000 0.0083) 0.6696 (0.3342 0.4991) 0.1029 (0.0080 0.0779) 0.6696 (0.3342 0.4991) 0.1029 (0.0080 0.0779) 0.1029 (0.0080 0.0779) 0.0921 (0.0080 0.0871)-1.0000 (0.0000 0.0423) 0.0543 (0.0107 0.1970)-1.0000 (0.0000 0.0000)
+papAnu_LOC101012338_XR_002521232 1.0776 (0.5494 0.5099) 0.3210 (0.0053 0.0166) 0.1717 (0.0134 0.0780) 0.1371 (0.0107 0.0780) 0.7618 (0.3755 0.4929) 0.1601 (0.0027 0.0166) 0.7618 (0.3755 0.4929) 0.1601 (0.0027 0.0166) 0.1601 (0.0027 0.0166) 0.3221 (0.0027 0.0083) 0.1110 (0.0107 0.0964) 0.0780 (0.0215 0.2762) 0.1374 (0.0107 0.0779) 0.1374 (0.0107 0.0779)
+pilTep_LOC111551535_XM_023225564 1.0572 (0.5461 0.5165) 0.1260 (0.0053 0.0423) 0.1159 (0.0080 0.0691) 0.0772 (0.0053 0.0691) 0.7483 (0.3735 0.4991) 0.0629 (0.0027 0.0423) 0.7483 (0.3735 0.4991) 0.0629 (0.0027 0.0423) 0.0629 (0.0027 0.0423) 0.0790 (0.0027 0.0337) 0.0611 (0.0053 0.0872) 0.0608 (0.0161 0.2648) 0.0773 (0.0053 0.0689) 0.0773 (0.0053 0.0689) 0.2123 (0.0053 0.0251)
+ponAbe_LOC112134297_XM_024249562 1.0572 (0.5461 0.5165) 0.1265 (0.0134 0.1059) 0.6422 (0.0053 0.0083) 0.3205 (0.0027 0.0083) 0.7483 (0.3735 0.4991) 0.1227 (0.0107 0.0872) 0.7483 (0.3735 0.4991) 0.1227 (0.0107 0.0872) 0.1227 (0.0107 0.0872) 0.1108 (0.0107 0.0965) 0.0628 (0.0027 0.0424) 0.0678 (0.0134 0.1974) 0.1598 (0.0027 0.0167) 0.1598 (0.0027 0.0167) 0.1536 (0.0134 0.0872) 0.1024 (0.0080 0.0781)
+rhiBie_ZNF775_XM_017887803 1.0572 (0.5461 0.5165) 0.0773 (0.0053 0.0690) 0.0827 (0.0080 0.0968) 0.0550 (0.0053 0.0968) 0.7483 (0.3735 0.4991) 0.0385 (0.0027 0.0690) 0.7483 (0.3735 0.4991) 0.0385 (0.0027 0.0690) 0.0385 (0.0027 0.0690) 0.0443 (0.0027 0.0600) 0.0461 (0.0053 0.1156) 0.0556 (0.0161 0.2891) 0.0552 (0.0053 0.0966) 0.0552 (0.0053 0.0966) 0.1042 (0.0053 0.0511)-1.0000 (0.0000 0.0424) 0.0753 (0.0080 0.1062)
+rhiRox_LOC104675257_XM_030931956 1.0572 (0.5461 0.5165) 0.0888 (0.0053 0.0600) 0.0915 (0.0080 0.0875) 0.0609 (0.0053 0.0875) 0.7483 (0.3735 0.4991) 0.0443 (0.0027 0.0600) 0.7483 (0.3735 0.4991) 0.0443 (0.0027 0.0600) 0.0443 (0.0027 0.0600) 0.0520 (0.0027 0.0511) 0.0502 (0.0053 0.1061) 0.0556 (0.0161 0.2891) 0.0610 (0.0053 0.0873) 0.0610 (0.0053 0.0873) 0.1258 (0.0053 0.0424)-1.0000 (0.0000 0.0338) 0.0827 (0.0080 0.0968)-1.0000 (0.0000 0.0083)
+theGel_LOC112620139_XM_025378336 0.7773 (0.5072 0.6525) 0.8300 (0.6990 0.8422) 0.7896 (0.7951 1.0070) 0.7896 (0.7951 1.0070) 0.6221 (0.3953 0.6354) 0.8300 (0.6990 0.8422) 0.6221 (0.3953 0.6354) 0.8300 (0.6990 0.8422) 0.8300 (0.6990 0.8422) 0.8300 (0.6990 0.8422) 0.7896 (0.7951 1.0070) 0.8011 (0.9994 1.2476) 0.7896 (0.7951 1.0070) 0.7896 (0.7951 1.0070) 0.9201 (0.7749 0.8422) 0.8453 (0.7554 0.8936) 0.7126 (0.7176 1.0070) 0.8453 (0.7554 0.8936) 0.8453 (0.7554 0.8936)
+traFra_LOC117073327_XM_033194119 1.3088 (0.5461 0.4172) 0.0774 (0.0053 0.0689) 0.0828 (0.0080 0.0966) 0.0551 (0.0053 0.0966) 0.9243 (0.3735 0.4041) 0.0386 (0.0027 0.0689) 0.9243 (0.3735 0.4041) 0.0386 (0.0027 0.0689) 0.0386 (0.0027 0.0689) 0.0444 (0.0027 0.0599) 0.0462 (0.0053 0.1155) 0.0582 (0.0161 0.2765) 0.0553 (0.0053 0.0965) 0.0553 (0.0053 0.0965) 0.1044 (0.0053 0.0511)-1.0000 (0.0000 0.0424) 0.0755 (0.0080 0.1061)-1.0000 (0.0000 0.0337)-1.0000 (0.0000 0.0252) 1.0668 (0.7554 0.7081)
+
+
+TREE #  1:  (21, (16, ((((8, (6, 9)), 10), (15, (2, (20, (5, (7, 1)))))), (11, ((13, 14), (12, (3, (4, 17))))))), (19, 18));   MP score: -1
+check convergence..
+lnL(ntime: 39  np: 44):  -2349.175820      +0.000000
+  22..21   22..23   23..16   23..24   24..25   25..26   26..27   27..8    27..28   28..6    28..9    26..10   25..29   29..15   29..30   30..2    30..31   31..20   31..32   32..5    32..33   33..7    33..1    24..34   34..11   34..35   35..36   36..13   36..14   35..37   37..12   37..38   38..3    38..39   39..4    39..17   22..40   40..19   40..18 
+ 0.023978 0.023970 0.011906 0.000004 0.036021 0.011853 0.011856 0.000004 0.000004 0.000004 0.000004 0.000004 0.000004 0.011997 0.000004 0.036024 2.576335 2.176562 0.246992 0.000004 0.008055 0.000004 0.197569 0.101561 0.036687 0.012247 0.012040 0.000004 0.000004 0.000004 0.334814 0.000004 0.012039 0.000004 0.000004 0.024096 0.011780 0.000004 0.011754 3.518192 0.902961 0.019154 0.116670 4.520108
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   5.93021
+
+(21: 0.023978, (16: 0.011906, ((((8: 0.000004, (6: 0.000004, 9: 0.000004): 0.000004): 0.011856, 10: 0.000004): 0.011853, (15: 0.011997, (2: 0.036024, (20: 2.176562, (5: 0.000004, (7: 0.000004, 1: 0.197569): 0.008055): 0.246992): 2.576335): 0.000004): 0.000004): 0.036021, (11: 0.036687, ((13: 0.000004, 14: 0.000004): 0.012040, (12: 0.334814, (3: 0.012039, (4: 0.000004, 17: 0.024096): 0.000004): 0.000004): 0.000004): 0.012247): 0.101561): 0.000004): 0.023970, (19: 0.000004, 18: 0.011754): 0.011780);
+
+(traFra_LOC117073327_XM_033194119: 0.023978, (pilTep_LOC111551535_XM_023225564: 0.011906, ((((macMul_LOC713120_XM_028846457: 0.000004, (macFas_LOC102130591_XM_015448274: 0.000004, macNem_ZNF775_XM_024790709: 0.000004): 0.000004): 0.011856, manLeu_ZNF775_XM_011966624: 0.000004): 0.011853, (papAnu_LOC101012338_XR_002521232: 0.011997, (chlSab_LOC103227212_XM_037990954: 0.036024, (theGel_LOC112620139_XM_025378336: 2.176562, (macFas_LOC102130591_XM_015448271: 0.000004, (macMul_LOC713120_XM_028846451: 0.000004, calJac_LOC100895615_XM_035254406: 0.197569): 0.008055): 0.246992): 2.576335): 0.000004): 0.000004): 0.036021, (nomLeu_LOC100587757_XM_012512291: 0.036687, ((panPan_LOC100984200_XM_034965231: 0.000004, panTro_LOC100612560_XM_009454535: 0.000004): 0.012040, (otoGar_LOC105887201_XM_012806522: 0.334814, (gorGorGor_LOC101140790_XM_019031179: 0.012039, (homSap_novelZNF_ENSG00000284691: 0.000004, ponAbe_LOC112134297_XM_024249562: 0.024096): 0.000004): 0.000004): 0.000004): 0.012247): 0.101561): 0.000004): 0.023970, (rhiRox_LOC104675257_XM_030931956: 0.000004, rhiBie_ZNF775_XM_017887803: 0.011754): 0.011780);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.51819
+
+
+dN/dS (w) for site classes (K=3)
+
+p:   0.90296  0.01915  0.07788
+w:   0.11667  1.00000  4.52011
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  22..21      0.024   1015.9    217.1   0.4765   0.0067   0.0141    6.8    3.1
+  22..23      0.024   1015.9    217.1   0.4765   0.0067   0.0140    6.8    3.1
+  23..16      0.012   1015.9    217.1   0.4765   0.0033   0.0070    3.4    1.5
+  23..24      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  24..25      0.036   1015.9    217.1   0.4765   0.0101   0.0211   10.2    4.6
+  25..26      0.012   1015.9    217.1   0.4765   0.0033   0.0069    3.4    1.5
+  26..27      0.012   1015.9    217.1   0.4765   0.0033   0.0069    3.4    1.5
+  27..8       0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  27..28      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  28..6       0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  28..9       0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  26..10      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  25..29      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  29..15      0.012   1015.9    217.1   0.4765   0.0034   0.0070    3.4    1.5
+  29..30      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  30..2       0.036   1015.9    217.1   0.4765   0.0101   0.0211   10.2    4.6
+  30..31      2.576   1015.9    217.1   0.4765   0.7196   1.5100  731.0  327.9
+  31..20      2.177   1015.9    217.1   0.4765   0.6079   1.2757  617.6  277.0
+  31..32      0.247   1015.9    217.1   0.4765   0.0690   0.1448   70.1   31.4
+  32..5       0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  32..33      0.008   1015.9    217.1   0.4765   0.0022   0.0047    2.3    1.0
+  33..7       0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  33..1       0.198   1015.9    217.1   0.4765   0.0552   0.1158   56.1   25.1
+  24..34      0.102   1015.9    217.1   0.4765   0.0284   0.0595   28.8   12.9
+  34..11      0.037   1015.9    217.1   0.4765   0.0102   0.0215   10.4    4.7
+  34..35      0.012   1015.9    217.1   0.4765   0.0034   0.0072    3.5    1.6
+  35..36      0.012   1015.9    217.1   0.4765   0.0034   0.0071    3.4    1.5
+  36..13      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  36..14      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  35..37      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  37..12      0.335   1015.9    217.1   0.4765   0.0935   0.1962   95.0   42.6
+  37..38      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  38..3       0.012   1015.9    217.1   0.4765   0.0034   0.0071    3.4    1.5
+  38..39      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  39..4       0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  39..17      0.024   1015.9    217.1   0.4765   0.0067   0.0141    6.8    3.1
+  22..40      0.012   1015.9    217.1   0.4765   0.0033   0.0069    3.3    1.5
+  40..19      0.000   1015.9    217.1   0.4765   0.0000   0.0000    0.0    0.0
+  40..18      0.012   1015.9    217.1   0.4765   0.0033   0.0069    3.3    1.5
+
+
+Naive Empirical Bayes (NEB) analysis
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: calJac_LOC100895615_XM_035254406)
+
+            Pr(w>1)     post mean +- SE for w
+
+    45 A      0.838         3.942
+    58 P      0.698         3.230
+    68 H      0.673         3.123
+    79 P      0.758         3.592
+   200 A      0.709         3.276
+   202 T      0.564         2.652
+   207 L      0.694         3.214
+   243 -      0.642         2.989
+   266 P      0.703         3.249
+   274 G      0.703         3.253
+   278 L      0.964*        4.380
+   279 A      0.709         3.276
+   282 P      0.602         2.814
+   289 E      0.516         2.443
+   299 L      0.539         2.541
+   320 L      0.518         2.451
+   321 V      0.659         3.062
+   322 Q      0.510         2.418
+   325 G      0.577         2.706
+   331 M      0.602         2.816
+   336 P      0.580         2.719
+   355 S      0.724         3.340
+   357 A      0.706         3.263
+   359 G      0.563         2.646
+   384 S      0.811         3.760
+   389 A      0.612         2.947
+
+
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: calJac_LOC100895615_XM_035254406)
+
+            Pr(w>1)     post mean +- SE for w
+
+    58 P      0.521         3.892 +- 3.715
+   200 A      0.539         4.025 +- 3.732
+   207 L      0.515         3.845 +- 3.708
+   266 P      0.528         3.945 +- 3.722
+   274 G      0.530         3.960 +- 3.724
+   278 L      0.868         6.152 +- 3.060
+   279 A      0.539         4.025 +- 3.732
+   355 S      0.563         4.199 +- 3.744
+   357 A      0.534         3.986 +- 3.727
+
+
+
+The grid (see ternary graph for p0-p1)
+
+w0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+w2:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+w0:   0.240  0.759  0.001  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+w2:   0.024  0.048  0.080  0.107  0.122  0.128  0.128  0.125  0.121  0.117
+
+Posterior for p0-p1 (see the ternary graph)
+
+ 0.000
+ 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.041
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.002 0.061 0.210
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.003 0.019 0.293 0.370
+
+sum of density on p0-p1 =   1.000000
+
+Time used:  6:51
