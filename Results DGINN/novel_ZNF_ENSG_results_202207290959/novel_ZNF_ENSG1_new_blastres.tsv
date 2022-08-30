@@ -1,0 +1,208 @@
+# BLASTN 2.13.0+
+# Query: homSap_novelZNF_ENSG00000284691
+# Database: nr					
+# Fields: subject id, ?
+# 1000 hits found
+gi|2217368360|ref|XM_047420789.1| PREDICTED: Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant X5, mRNA
+gi|2217368358|ref|XM_047420788.1| PREDICTED: Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant X4, mRNA
+gi|2217368356|ref|XM_047420787.1| PREDICTED: Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant X3, mRNA
+gi|2217368354|ref|XM_047420786.1| PREDICTED: Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant X2, mRNA
+gi|2217368352|ref|XM_047420785.1| PREDICTED: Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant X1, mRNA
+gi|2091612991|ref|NM_001395974.1| Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant 1, mRNA
+gi|2091612989|ref|NM_001395975.1| Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant 2, mRNA
+gi|2091612604|ref|NM_001395976.1| Homo sapiens zinc finger domain-containing protein LOC728743 (LOC728743), transcript variant 3, mRNA
+gi|219521235|gb|BC143767.1| Homo sapiens cDNA clone MGC:177298 IMAGE:9052281, complete cds
+gi|15638868|gb|AC073111.8| Homo sapiens BAC clone RP11-511P7 from 7, complete sequence
+gi|1849170057|ref|XM_034965231.1| PREDICTED: Pan paniscus zinc finger and SCAN domain-containing protein 2 (LOC100984200), transcript variant X6, mRNA
+gi|1849170055|ref|XM_034965230.1| PREDICTED: Pan paniscus zinc finger and SCAN domain-containing protein 2 (LOC100984200), transcript variant X5, mRNA
+gi|1849170053|ref|XM_034965229.1| PREDICTED: Pan paniscus zinc finger and SCAN domain-containing protein 2 (LOC100984200), transcript variant X4, mRNA
+gi|1849170030|ref|XM_034965228.1| PREDICTED: Pan paniscus zinc finger and SCAN domain-containing protein 2 (LOC100984200), transcript variant X3, mRNA
+gi|1849170028|ref|XM_034965227.1| PREDICTED: Pan paniscus zinc finger and SCAN domain-containing protein 2 (LOC100984200), transcript variant X2, mRNA
+gi|1849170027|ref|XR_004672702.1| PREDICTED: Pan paniscus zinc finger and SCAN domain-containing protein 2 (LOC100984200), transcript variant X1, misc_RNA
+gi|1753079992|ref|XM_004046475.3| PREDICTED: Gorilla gorilla gorilla zinc finger and SCAN domain-containing protein 2-like (LOC101140790), transcript variant X5, mRNA
+gi|1753079991|ref|XM_019031181.2| PREDICTED: Gorilla gorilla gorilla zinc finger and SCAN domain-containing protein 2-like (LOC101140790), transcript variant X4, mRNA
+gi|1753079990|ref|XM_019031180.2| PREDICTED: Gorilla gorilla gorilla zinc finger and SCAN domain-containing protein 2-like (LOC101140790), transcript variant X3, mRNA
+gi|1753079989|ref|XM_019031179.2| PREDICTED: Gorilla gorilla gorilla zinc finger and SCAN domain-containing protein 2-like (LOC101140790), transcript variant X2, mRNA
+gi|1753079988|ref|XM_019031178.2| PREDICTED: Gorilla gorilla gorilla zinc finger and SCAN domain-containing protein 2-like (LOC101140790), transcript variant X1, mRNA
+gi|1367318554|ref|XM_003318896.5| PREDICTED: Pan troglodytes zinc finger and SCAN domain-containing protein 2-like (LOC100612560), transcript variant X4, mRNA
+gi|1367318553|ref|XM_009454539.3| PREDICTED: Pan troglodytes zinc finger and SCAN domain-containing protein 2-like (LOC100612560), transcript variant X3, mRNA
+gi|1367318552|ref|XM_009454535.3| PREDICTED: Pan troglodytes zinc finger and SCAN domain-containing protein 2-like (LOC100612560), transcript variant X2, mRNA
+gi|1367318551|ref|XM_009454538.3| PREDICTED: Pan troglodytes zinc finger and SCAN domain-containing protein 2-like (LOC100612560), transcript variant X1, mRNA
+gi|51339200|gb|AC146055.4| Pan troglodytes BAC clone RP43-80G9 from chromosome 7, complete sequence
+gi|1820542920|ref|XM_032762151.1| PREDICTED: Hylobates moloch zinc finger and SCAN domain-containing protein 2-like (LOC116814516), transcript variant X5, mRNA
+gi|1820542918|ref|XM_032762149.1| PREDICTED: Hylobates moloch zinc finger and SCAN domain-containing protein 2-like (LOC116814516), transcript variant X4, mRNA
+gi|1820542916|ref|XM_032762148.1| PREDICTED: Hylobates moloch zinc finger and SCAN domain-containing protein 2-like (LOC116814516), transcript variant X3, mRNA
+gi|1820542914|ref|XM_032762147.1| PREDICTED: Hylobates moloch zinc finger and SCAN domain-containing protein 2-like (LOC116814516), transcript variant X2, mRNA
+gi|1820542912|ref|XM_032762145.1| PREDICTED: Hylobates moloch zinc finger and SCAN domain-containing protein 2-like (LOC116814516), transcript variant X1, mRNA
+gi|1351508945|ref|XM_024249562.1| PREDICTED: Pongo abelii zinc finger and SCAN domain-containing protein 2-like (LOC112134297), transcript variant X1, mRNA
+gi|1743156020|ref|XM_030826135.1| PREDICTED: Nomascus leucogenys zinc finger and SCAN domain-containing protein 2-like (LOC100587757), transcript variant X6, mRNA
+gi|1743156019|ref|XM_003270904.4| PREDICTED: Nomascus leucogenys zinc finger and SCAN domain-containing protein 2-like (LOC100587757), transcript variant X5, mRNA
+gi|1743156017|ref|XM_030826134.1| PREDICTED: Nomascus leucogenys zinc finger and SCAN domain-containing protein 2-like (LOC100587757), transcript variant X4, mRNA
+gi|1743156016|ref|XM_012512291.2| PREDICTED: Nomascus leucogenys zinc finger and SCAN domain-containing protein 2-like (LOC100587757), transcript variant X3, mRNA
+gi|1743156015|ref|XM_012512292.2| PREDICTED: Nomascus leucogenys zinc finger and SCAN domain-containing protein 2-like (LOC100587757), transcript variant X2, mRNA
+gi|1743156013|ref|XM_030826133.1| PREDICTED: Nomascus leucogenys zinc finger and SCAN domain-containing protein 2-like (LOC100587757), transcript variant X1, mRNA
+gi|1788696877|ref|XM_023225564.2| PREDICTED: Piliocolobus tephrosceles zinc finger and SCAN domain-containing protein 2-like (LOC111551535), transcript variant X3, mRNA
+gi|1788696876|ref|XM_023225561.3| PREDICTED: Piliocolobus tephrosceles zinc finger and SCAN domain-containing protein 2-like (LOC111551535), transcript variant X1, mRNA
+gi|1482600946|ref|XM_023225563.2| PREDICTED: Piliocolobus tephrosceles zinc finger and SCAN domain-containing protein 2-like (LOC111551535), transcript variant X2, mRNA
+gi|1622927648|ref|XM_015135266.2| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X10, mRNA
+gi|1622927645|ref|XM_028846457.1| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X9, mRNA
+gi|1622927643|ref|XM_028846456.1| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X8, mRNA
+gi|1622927640|ref|XM_015135264.2| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X7, mRNA
+gi|1622927637|ref|XM_028846455.1| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X6, mRNA
+gi|1622927635|ref|XM_015135268.2| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X5, mRNA
+gi|1622927632|ref|XM_028846454.1| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X4, mRNA
+gi|1622927630|ref|XM_028846453.1| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X3, mRNA
+gi|1622927627|ref|XM_028846452.1| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X2, mRNA
+gi|1622927625|ref|XM_028846451.1| PREDICTED: Macaca mulatta zinc finger and SCAN domain-containing protein 2-like (LOC713120), transcript variant X1, mRNA
+gi|1381503769|ref|XM_024790709.1| PREDICTED: Macaca nemestrina zinc finger protein 775 (ZNF775), mRNA
+gi|2161898217|ref|XM_045388133.1| PREDICTED: Macaca fascicularis zinc finger and SCAN domain-containing protein 2-like (LOC102130591), transcript variant X6, mRNA
+gi|2161898216|ref|XM_015448274.2| PREDICTED: Macaca fascicularis zinc finger and SCAN domain-containing protein 2-like (LOC102130591), transcript variant X5, mRNA
+gi|2161898214|ref|XM_045388132.1| PREDICTED: Macaca fascicularis zinc finger and SCAN domain-containing protein 2-like (LOC102130591), transcript variant X4, mRNA
+gi|2161898212|ref|XM_015448272.2| PREDICTED: Macaca fascicularis zinc finger and SCAN domain-containing protein 2-like (LOC102130591), transcript variant X3, mRNA
+gi|2161898210|ref|XM_015448271.2| PREDICTED: Macaca fascicularis zinc finger and SCAN domain-containing protein 2-like (LOC102130591), transcript variant X2, mRNA
+gi|2161898208|ref|XM_005551136.3| PREDICTED: Macaca fascicularis zinc finger and SCAN domain-containing protein 2-like (LOC102130591), transcript variant X1, mRNA
+gi|1777317260|ref|XM_021936410.2| PREDICTED: Papio anubis zinc finger and SCAN domain-containing protein 2-like (LOC101012338), transcript variant X4, mRNA
+gi|1777317259|ref|XR_002521234.2| PREDICTED: Papio anubis zinc finger and SCAN domain-containing protein 2-like (LOC101012338), transcript variant X3, misc_RNA
+gi|1777317258|ref|XR_002521233.2| PREDICTED: Papio anubis zinc finger and SCAN domain-containing protein 2-like (LOC101012338), transcript variant X2, misc_RNA
+gi|1777317257|ref|XR_002521232.2| PREDICTED: Papio anubis zinc finger and SCAN domain-containing protein 2-like (LOC101012338), transcript variant X1, misc_RNA
+gi|1751283107|ref|XM_030931957.1| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X8, mRNA
+gi|1751283106|ref|XM_010379729.2| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X7, mRNA
+gi|1751283104|ref|XM_030931956.1| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X6, mRNA
+gi|1751283102|ref|XM_030931955.1| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X5, mRNA
+gi|1751283100|ref|XM_030931954.1| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X4, mRNA
+gi|1751283098|ref|XM_030931953.1| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X3, mRNA
+gi|1751283096|ref|XM_030931952.1| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X2, mRNA
+gi|1751283094|ref|XM_030931951.1| PREDICTED: Rhinopithecus roxellana zinc finger and SCAN domain-containing protein 2-like (LOC104675257), transcript variant X1, mRNA
+gi|1411144020|ref|XM_025378336.1| PREDICTED: Theropithecus gelada zinc finger and SCAN domain-containing protein 2-like (LOC112620139), transcript variant X2, mRNA
+gi|795586077|ref|XM_012057675.1| PREDICTED: Cercocebus atys zinc finger and SCAN domain-containing protein 2-like (LOC105584718), transcript variant X5, mRNA
+gi|795586073|ref|XM_012057674.1| PREDICTED: Cercocebus atys zinc finger and SCAN domain-containing protein 2-like (LOC105584718), transcript variant X4, mRNA
+gi|795586068|ref|XM_012057673.1| PREDICTED: Cercocebus atys zinc finger and SCAN domain-containing protein 2-like (LOC105584718), transcript variant X3, mRNA
+gi|795586063|ref|XM_012057672.1| PREDICTED: Cercocebus atys zinc finger and SCAN domain-containing protein 2-like (LOC105584718), transcript variant X2, mRNA
+gi|795586058|ref|XM_012057671.1| PREDICTED: Cercocebus atys zinc finger and SCAN domain-containing protein 2-like (LOC105584718), transcript variant X1, mRNA
+gi|795295388|ref|XM_011966624.1| PREDICTED: Mandrillus leucophaeus zinc finger protein 775 (ZNF775), mRNA
+gi|1825931662|ref|XM_033194122.1| PREDICTED: Trachypithecus francoisi zinc finger and SCAN domain-containing protein 2-like (LOC117073327), transcript variant X4, mRNA
+gi|1825931660|ref|XM_033194121.1| PREDICTED: Trachypithecus francoisi zinc finger and SCAN domain-containing protein 2-like (LOC117073327), transcript variant X3, mRNA
+gi|1825931658|ref|XM_033194120.1| PREDICTED: Trachypithecus francoisi zinc finger and SCAN domain-containing protein 2-like (LOC117073327), transcript variant X2, mRNA
+gi|1825931656|ref|XM_033194119.1| PREDICTED: Trachypithecus francoisi zinc finger and SCAN domain-containing protein 2-like (LOC117073327), transcript variant X1, mRNA
+gi|1059173899|ref|XM_017887803.1| PREDICTED: Rhinopithecus bieti zinc finger protein 775 (ZNF775), mRNA
+gi|1214037456|ref|XM_021715422.1| PREDICTED: Carlito syrichta zinc finger and SCAN domain-containing protein 2-like (LOC110596184), transcript variant X3, mRNA
+gi|1214037454|ref|XM_021715421.1| PREDICTED: Carlito syrichta zinc finger and SCAN domain-containing protein 2-like (LOC110596184), transcript variant X2, mRNA
+gi|1214037452|ref|XM_021715420.1| PREDICTED: Carlito syrichta zinc finger and SCAN domain-containing protein 2-like (LOC110596184), transcript variant X1, mRNA
+gi|1938920569|ref|XM_037990954.1| PREDICTED: Chlorocebus sabaeus zinc finger and SCAN domain-containing protein 2-like (LOC103227212), transcript variant X6, mRNA
+gi|1938920567|ref|XM_037990953.1| PREDICTED: Chlorocebus sabaeus zinc finger and SCAN domain-containing protein 2-like (LOC103227212), transcript variant X5, mRNA
+gi|1938920565|ref|XM_037990952.1| PREDICTED: Chlorocebus sabaeus zinc finger and SCAN domain-containing protein 2-like (LOC103227212), transcript variant X4, mRNA
+gi|1938920563|ref|XM_037990951.1| PREDICTED: Chlorocebus sabaeus zinc finger and SCAN domain-containing protein 2-like (LOC103227212), transcript variant X3, mRNA
+gi|1938920562|ref|XM_007983424.2| PREDICTED: Chlorocebus sabaeus zinc finger and SCAN domain-containing protein 2-like (LOC103227212), transcript variant X2, mRNA
+gi|1938920560|ref|XM_037990950.1| PREDICTED: Chlorocebus sabaeus zinc finger and SCAN domain-containing protein 2-like (LOC103227212), transcript variant X1, mRNA
+gi|1212382616|ref|XM_021665249.1| PREDICTED: Aotus nancymaae zinc finger protein 775 (ZNF775), mRNA
+gi|826344040|ref|XM_012662120.1| PREDICTED: Propithecus coquereli zinc finger and SCAN domain-containing protein 2-like (LOC105824610), mRNA
+gi|1984060623|ref|XM_039472604.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X9, mRNA
+gi|1984060621|ref|XM_039472603.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X8, mRNA
+gi|1984060619|ref|XM_039472602.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X7, mRNA
+gi|1984060617|ref|XM_039472601.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X6, mRNA
+gi|1984060615|ref|XM_039472600.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X5, mRNA
+gi|1984060613|ref|XM_039472599.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X4, mRNA
+gi|1984060611|ref|XM_039472598.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X3, mRNA
+gi|1984060609|ref|XM_039472597.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X2, mRNA
+gi|1984060607|ref|XM_039472596.1| PREDICTED: Saimiri boliviensis boliviensis zinc finger and SCAN domain-containing protein 2-like (LOC101046001), transcript variant X1, mRNA
+gi|1933906141|ref|XM_017520745.2| PREDICTED: Cebus imitator zinc finger and SCAN domain-containing protein 2-like (LOC108298038), mRNA
+gi|1864087257|ref|XM_017975515.2| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X8, mRNA
+gi|1864511748|ref|XM_035254406.1| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X7, mRNA
+gi|1864511746|ref|XM_035254405.1| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X6, mRNA
+gi|1864511744|ref|XM_035254404.1| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X5, mRNA
+gi|1864511742|ref|XM_035254403.1| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X4, mRNA
+gi|1864087245|ref|XM_003733628.4| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X3, mRNA
+gi|1864511740|ref|XM_035254402.1| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X2, mRNA
+gi|1864087242|ref|XM_009002851.3| PREDICTED: Callithrix jacchus zinc finger and SCAN domain-containing protein 2 (LOC100895615), transcript variant X1, mRNA
+gi|1149754612|ref|XR_001159661.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X10, misc_RNA
+gi|1149754609|ref|XR_001159659.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X8, misc_RNA
+gi|1149754605|ref|XR_001159657.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X6, misc_RNA
+gi|1149754602|ref|XR_001159656.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X5, misc_RNA
+gi|1149754600|ref|XR_001159655.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X4, misc_RNA
+gi|1149754598|ref|XM_012786126.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X3, mRNA
+gi|1149754596|ref|XR_001159654.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X2, misc_RNA
+gi|1149754593|ref|XR_001159653.2| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X1, misc_RNA
+gi|829873419|ref|XR_001159660.1| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X9, misc_RNA
+gi|829873412|ref|XR_001159658.1| PREDICTED: Microcebus murinus zinc finger and SCAN domain-containing protein 2-like (LOC105883157), transcript variant X7, misc_RNA
+gi|1804416527|ref|XM_032245070.1| PREDICTED: Sapajus apella zinc finger and SCAN domain-containing protein 2-like (LOC116527875), transcript variant X5, mRNA
+gi|1804416525|ref|XM_032245069.1| PREDICTED: Sapajus apella zinc finger and SCAN domain-containing protein 2-like (LOC116527875), transcript variant X4, mRNA
+gi|1804416523|ref|XM_032245068.1| PREDICTED: Sapajus apella zinc finger and SCAN domain-containing protein 2-like (LOC116527875), transcript variant X3, mRNA
+gi|1804416521|ref|XM_032245067.1| PREDICTED: Sapajus apella zinc finger and SCAN domain-containing protein 2-like (LOC116527875), transcript variant X2, mRNA
+gi|1804416519|ref|XM_032245066.1| PREDICTED: Sapajus apella zinc finger and SCAN domain-containing protein 2-like (LOC116527875), transcript variant X1, mRNA
+gi|2168840156|ref|XM_045565043.1| PREDICTED: Lemur catta zinc finger and SCAN domain-containing protein 2 (LOC123647534), transcript variant X1, mRNA
+gi|831229621|ref|XM_012806522.1| PREDICTED: Otolemur garnettii zinc finger and SCAN domain-containing protein 2-like (LOC105887201), mRNA
+gi|795161892|ref|XM_011941454.1| PREDICTED: Colobus angolensis palliatus zinc finger protein 775-like (LOC105511307), transcript variant X3, mRNA
+gi|795161886|ref|XM_011941453.1| PREDICTED: Colobus angolensis palliatus zinc finger protein 775-like (LOC105511307), transcript variant X2, mRNA
+gi|795161881|ref|XM_011941452.1| PREDICTED: Colobus angolensis palliatus zinc finger protein 775-like (LOC105511307), transcript variant X1, mRNA
+gi|1788688169|ref|XM_023184357.3| PREDICTED: Piliocolobus tephrosceles zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|1788688168|ref|XM_023184355.3| PREDICTED: Piliocolobus tephrosceles zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1214034855|ref|XM_021714454.1| PREDICTED: Carlito syrichta zinc finger protein 629 (ZNF629), transcript variant X2, mRNA
+gi|1214034854|ref|XM_008062035.2| PREDICTED: Carlito syrichta zinc finger protein 629 (ZNF629), transcript variant X1, mRNA
+gi|1751283086|ref|XM_030931947.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X9, mRNA
+gi|1751283084|ref|XM_030931946.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X8, mRNA
+gi|1751283082|ref|XM_030931945.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X7, mRNA
+gi|1751283080|ref|XM_030931944.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X6, mRNA
+gi|1751283078|ref|XM_030931943.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X5, mRNA
+gi|1751283076|ref|XM_030931942.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X4, mRNA
+gi|1751283074|ref|XM_030931941.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X3, mRNA
+gi|1751283072|ref|XM_030931940.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X2, mRNA
+gi|1751283070|ref|XM_030931939.1| PREDICTED: Rhinopithecus roxellana replication initiator 1 (REPIN1), transcript variant X1, mRNA
+gi|1059173923|ref|XM_017887815.1| PREDICTED: Rhinopithecus bieti replication initiator 1 (REPIN1), transcript variant X4, mRNA
+gi|1059173921|ref|XM_017887814.1| PREDICTED: Rhinopithecus bieti replication initiator 1 (REPIN1), transcript variant X3, mRNA
+gi|1059173919|ref|XM_017887813.1| PREDICTED: Rhinopithecus bieti replication initiator 1 (REPIN1), transcript variant X2, mRNA
+gi|1059173917|ref|XM_017887812.1| PREDICTED: Rhinopithecus bieti replication initiator 1 (REPIN1), transcript variant X1, mRNA
+gi|1849054415|ref|XM_034944471.1| PREDICTED: Pan paniscus zinc finger protein 787 (ZNF787), mRNA
+gi|1777306324|ref|XM_009195393.3| PREDICTED: Papio anubis zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|1777306323|ref|XM_003916163.5| PREDICTED: Papio anubis zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1753053975|ref|XM_031004604.1| PREDICTED: Gorilla gorilla gorilla zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|1753053973|ref|XM_031004603.1| PREDICTED: Gorilla gorilla gorilla zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1622891276|ref|XM_015124962.2| PREDICTED: Macaca mulatta zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|1622891273|ref|XM_028838406.1| PREDICTED: Macaca mulatta zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1519241643|ref|NM_001002836.4| Homo sapiens zinc finger protein 787 (ZNF787), transcript variant 1, mRNA
+gi|1411128968|ref|XM_025367422.1| PREDICTED: Theropithecus gelada zinc finger protein 787 (ZNF787), mRNA
+gi|1381441543|ref|XM_011751968.2| PREDICTED: Macaca nemestrina zinc finger protein 787 (LOC105488139), transcript variant X2, mRNA
+gi|1381441541|ref|XM_011751967.2| PREDICTED: Macaca nemestrina zinc finger protein 787 (LOC105488139), transcript variant X1, mRNA
+gi|1199701087|ref|NG_054921.1| Homo sapiens zinc finger protein 787 (ZNF787), RefSeqGene on chromosome 19
+gi|795371451|ref|XM_011932569.1| PREDICTED: Colobus angolensis palliatus zinc finger protein 787 (ZNF787), mRNA
+gi|2217319222|ref|XM_047438164.1| PREDICTED: Homo sapiens zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|2033715243|gb|CP068259.2| Homo sapiens isolate CHM13 chromosome 19
+gi|1938869343|ref|XM_038006381.1| PREDICTED: Chlorocebus sabaeus zinc finger protein 787 (LOC103235345), transcript variant X3, mRNA
+gi|1938869342|ref|XM_007998215.2| PREDICTED: Chlorocebus sabaeus zinc finger protein 787 (LOC103235345), transcript variant X2, mRNA
+gi|1938869341|ref|XM_007998213.2| PREDICTED: Chlorocebus sabaeus zinc finger protein 787 (LOC103235345), transcript variant X1, mRNA
+gi|388454323|ref|NM_001266935.1| Macaca mulatta zinc finger protein 787 (ZNF787), mRNA
+gi|1909942460|dbj|AP023479.1| Homo sapiens DNA, chromosome 19, nearly complete genome
+gi|50417947|gb|BC077728.1| Homo sapiens zinc finger protein 787, mRNA (cDNA clone MGC:78664 IMAGE:6210543), complete cds
+gi|17975240|gb|AC024580.6| Homo sapiens chromosome 19 clone CTD-2621I17, complete sequence
+gi|2145059|gb|AF000560.1|AF000560 Homo sapiens TTF-I interacting peptide 20 mRNA, partial cds
+gi|817309671|ref|XM_012469998.1| PREDICTED: Aotus nancymaae zinc finger protein 629 (ZNF629), transcript variant X2, mRNA
+gi|817309669|ref|XM_012469997.1| PREDICTED: Aotus nancymaae zinc finger protein 629 (ZNF629), transcript variant X1, mRNA
+gi|795565615|ref|XM_012053672.1| PREDICTED: Cercocebus atys zinc finger protein 787 (ZNF787), transcript variant X3, mRNA
+gi|795565610|ref|XM_012053671.1| PREDICTED: Cercocebus atys zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|795565605|ref|XM_012053670.1| PREDICTED: Cercocebus atys zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1367226080|ref|XM_009436474.3| PREDICTED: Pan troglodytes zinc finger protein 787 (ZNF787), mRNA
+gi|1212365143|ref|XM_021673479.1| PREDICTED: Aotus nancymaae zinc finger protein 787 (ZNF787), mRNA
+gi|2161872106|ref|XM_045378391.1| PREDICTED: Macaca fascicularis zinc finger protein 787 (LOC102125204), transcript variant X2, mRNA
+gi|2161872104|ref|XM_045378390.1| PREDICTED: Macaca fascicularis zinc finger protein 787 (LOC102125204), transcript variant X1, mRNA
+gi|1864417398|ref|XM_009009458.4| PREDICTED: Callithrix jacchus zinc finger protein 629 (ZNF629), transcript variant X1, mRNA
+gi|1864417401|ref|XM_035267436.1| PREDICTED: Callithrix jacchus zinc finger protein 629 (ZNF629), transcript variant X3, mRNA
+gi|1864417399|ref|XM_035267435.1| PREDICTED: Callithrix jacchus zinc finger protein 629 (ZNF629), transcript variant X2, mRNA
+gi|1934013947|ref|XM_017515479.2| PREDICTED: Cebus imitator zinc finger protein 629 (ZNF629), mRNA
+gi|1804455309|ref|XM_032263383.1| PREDICTED: Sapajus apella zinc finger protein 787 (ZNF787), transcript variant X4, mRNA
+gi|1804455307|ref|XM_032263382.1| PREDICTED: Sapajus apella zinc finger protein 787 (ZNF787), transcript variant X3, mRNA
+gi|1804455305|ref|XM_032263381.1| PREDICTED: Sapajus apella zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|1804455303|ref|XM_032263380.1| PREDICTED: Sapajus apella zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1212382548|ref|XM_021665222.1| PREDICTED: Aotus nancymaae replication initiator 1 (REPIN1), transcript variant X3, mRNA
+gi|1212382546|ref|XM_021665221.1| PREDICTED: Aotus nancymaae replication initiator 1 (REPIN1), transcript variant X2, mRNA
+gi|1212382544|ref|XM_021665220.1| PREDICTED: Aotus nancymaae replication initiator 1 (REPIN1), transcript variant X1, mRNA
+gi|1933962287|ref|XM_017546620.2| PREDICTED: Cebus imitator zinc finger protein 787 (ZNF787), transcript variant X5, mRNA
+gi|1933962284|ref|XM_037745011.1| PREDICTED: Cebus imitator zinc finger protein 787 (ZNF787), transcript variant X4, mRNA
+gi|1933962282|ref|XM_017546619.2| PREDICTED: Cebus imitator zinc finger protein 787 (ZNF787), transcript variant X3, mRNA
+gi|1933962279|ref|XM_017546618.2| PREDICTED: Cebus imitator zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|1933962276|ref|XM_037745010.1| PREDICTED: Cebus imitator zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1864460995|ref|XM_035284129.1| PREDICTED: Callithrix jacchus zinc finger protein 787 (ZNF787), transcript variant X6, mRNA
+gi|1864460989|ref|XM_035284125.1| PREDICTED: Callithrix jacchus zinc finger protein 787 (ZNF787), transcript variant X1, mRNA
+gi|1864460991|ref|XM_035284127.1| PREDICTED: Callithrix jacchus zinc finger protein 787 (ZNF787), transcript variant X4, mRNA
+gi|1864460993|ref|XM_035284128.1| PREDICTED: Callithrix jacchus zinc finger protein 787 (ZNF787), transcript variant X5, mRNA
+gi|1864020117|ref|XM_008988694.3| PREDICTED: Callithrix jacchus zinc finger protein 787 (ZNF787), transcript variant X3, mRNA
+gi|1864020115|ref|XM_017968094.2| PREDICTED: Callithrix jacchus zinc finger protein 787 (ZNF787), transcript variant X2, mRNA
+gi|1804412678|ref|XM_032243250.1| PREDICTED: Sapajus apella zinc finger protein 629 (ZNF629), mRNA
