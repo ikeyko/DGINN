@@ -1,0 +1,26 @@
+# Log likelihood = -2021.91578410784632069408
+
+result=phylo1
+
+phylo1=Single(process=1,data=1)
+
+
+model1=YNGP_M7(frequencies=F3X4(1_Full.theta=0.489232056144,1_Full.theta1=0.474312627388,1_Full.theta2=0.458687246733,2_Full.theta=0.668955894252,2_Full.theta1=0.488032774519,2_Full.theta2=0.273125391215,3_Full.theta=0.494773025994,3_Full.theta1=0.472738816454,3_Full.theta2=0.485266398430),n=4,kappa=7.716516308959,p=0.000100000000,q=0.868675706360)
+
+root_freq1=F3X4(1_Full.theta=0.685816348703,1_Full.theta1=0.550895674565,1_Full.theta2=0.516043218857,2_Full.theta=0.606628297319,2_Full.theta1=0.485342608990,2_Full.theta2=0.355621995255,3_Full.theta=0.734836931493,3_Full.theta1=0.397192841644,3_Full.theta2=0.424522698967)
+
+rate_distribution1=Gamma(n=4,alpha=1.023628072113, Gamma.beta=alpha)
+
+
+scenario1=path1&path2&path3&path4
+
+path1=model1[1]
+
+path2=model1[2]
+
+path3=model1[3]
+
+path4=model1[4]
+
+process1=Homogeneous(model=1, tree=1, rate=1, root_freq=1)
+
