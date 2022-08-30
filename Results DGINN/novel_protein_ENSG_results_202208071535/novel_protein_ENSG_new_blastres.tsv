@@ -1,0 +1,456 @@
+# BLASTN 2.13.0+
+# Query: homSap_novel_ENSG00000285708
+# Database: nr					
+# Fields: subject id, ?
+# 791 hits found
+gi|1843658112|ref|NM_001349340.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 13, mRNA
+gi|1843658093|ref|NM_001244814.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 7, mRNA
+gi|1843658062|ref|NM_001244816.2| Homo sapiens forkhead box P1 (FOXP1), transcript variant 9, mRNA
+gi|1843658043|ref|NM_001349338.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 11, mRNA
+gi|1777535708|ref|NM_032682.6| Homo sapiens forkhead box P1 (FOXP1), transcript variant 1, mRNA
+gi|12043713|gb|AF146696.1|AF146696 Homo sapiens clone pAB195 FOXP1 (FOXP1) mRNA, complete cds
+gi|18032255|gb|AF250920.1|AF250920 Homo sapiens 12CC4 mRNA, complete cds
+gi|18676892|dbj|AK074321.1| Homo sapiens cDNA FLJ23741 fis, clone HEP15377
+gi|1843658057|ref|NM_001349341.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 14, mRNA
+gi|1843658009|ref|NM_001244808.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 3, mRNA
+gi|1849115028|ref|XM_034956870.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1849115026|ref|XM_034956869.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1849115024|ref|XM_034956868.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1849115022|ref|XM_034956867.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1753064349|ref|XM_019023994.2| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1367266486|ref|XM_016940108.2| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1367266482|ref|XM_024355233.1| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1367266479|ref|XM_016940105.2| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1367266476|ref|XM_016940104.2| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1367266473|ref|XM_001140904.6| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1367266470|ref|XM_016940103.2| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1367266468|ref|XM_009445846.3| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|34527901|dbj|AK122710.1| Homo sapiens cDNA FLJ16198 fis, clone CTONG1000220, highly similar to Forkhead box protein P1
+gi|46250421|gb|BC068481.1| Homo sapiens cDNA clone IMAGE:4813876, containing frame-shift errors
+gi|1849115034|ref|XM_034956873.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1849115032|ref|XM_034956872.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1753064353|ref|XM_031009110.1| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1753064352|ref|XM_004035886.3| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1367266496|ref|XM_001140832.6| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1367266492|ref|XM_024355235.1| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1788685833|ref|XM_023200098.3| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1788685831|ref|XM_031935179.1| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1788685830|ref|XM_023200093.3| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1788685829|ref|XM_023200089.3| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1297604416|ref|XM_023200102.1| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1825833283|ref|XM_033210434.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1825833281|ref|XM_033210433.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1825833279|ref|XM_033210432.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1825833277|ref|XM_033210431.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1825833275|ref|XM_033210430.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1825833273|ref|XM_033210429.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1825833271|ref|XM_033210428.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1351492239|ref|XM_009238796.2| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1059182718|ref|XM_017892167.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1059182716|ref|XM_017892166.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1059182714|ref|XM_017892165.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1059182712|ref|XM_017892164.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1059182710|ref|XM_017892163.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|795191077|ref|XM_011947140.1| PREDICTED: Colobus angolensis palliatus forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1788685834|ref|XM_023200106.2| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1297604424|ref|XM_023200113.1| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1411132881|ref|XM_025374735.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1411132879|ref|XM_025374734.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1411132877|ref|XM_025374733.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|795085450|ref|XM_011971190.1| PREDICTED: Mandrillus leucophaeus forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|795085445|ref|XM_011971180.1| PREDICTED: Mandrillus leucophaeus forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1938855026|ref|XM_038002510.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1938855024|ref|XM_038002509.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1938855022|ref|XM_038002508.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1938855021|ref|XM_007984970.2| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1938855019|ref|XM_038002507.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1938855017|ref|XM_038002506.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1825833289|ref|XM_033210438.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1825833287|ref|XM_033210437.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1351492242|ref|XM_009238798.2| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1351492241|ref|XM_009238797.2| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1059182722|ref|XM_017892169.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1059182720|ref|XM_017892168.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|795191084|ref|XM_011947141.1| PREDICTED: Colobus angolensis palliatus forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1777297975|ref|XM_021933418.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1777297974|ref|XM_017954274.3| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1381516319|ref|XM_011737584.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1381516318|ref|XM_011737583.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1381516317|ref|XM_011737581.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1381516316|ref|XM_011737580.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1381516314|ref|XM_024792176.1| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|388453320|ref|NM_001266321.1| Macaca mulatta forkhead box P1 (FOXP1), mRNA
+gi|1751186338|ref|XM_010385988.2| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1751186336|ref|XM_030918197.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1751186334|ref|XM_030918145.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1751186332|ref|XM_030918116.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|2161882150|ref|XM_045384799.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|2161882148|ref|XM_045384798.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1411132885|ref|XM_025374737.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1411132883|ref|XM_025374736.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1938855029|ref|XM_007984973.2| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1938855028|ref|XM_007984975.2| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1777297977|ref|XM_009200346.4| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1777297976|ref|XM_003894193.5| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1381516321|ref|XM_011737587.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1381516320|ref|XM_011737586.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1751186343|ref|XM_030918371.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1751186341|ref|XM_030918333.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|795596425|ref|XM_012059847.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|2161882154|ref|XM_045384801.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|2161882152|ref|XM_045384800.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1933956023|ref|XM_037743576.1| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1804380167|ref|XM_032289651.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1804380165|ref|XM_032289650.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1804380163|ref|XM_032289649.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1804380161|ref|XM_032289648.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1804380159|ref|XM_032289647.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1804380157|ref|XM_032289646.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1804380155|ref|XM_032289645.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1804380153|ref|XM_032289644.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1804380151|ref|XM_032289643.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1804380149|ref|XM_032289642.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1984076017|ref|XM_010350107.2| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1984076016|ref|XM_010350106.2| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1984076014|ref|XM_039477213.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1984076012|ref|XM_039477212.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1984076010|ref|XM_039477210.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1984076008|ref|XM_039477209.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1933956029|ref|XM_017542808.2| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1933956027|ref|XM_037743578.1| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1804380173|ref|XM_032289655.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1804380171|ref|XM_032289654.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1984076020|ref|XM_039477215.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1984076018|ref|XM_039477214.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1864432728|ref|XM_035274628.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1863975767|ref|XM_002758548.5| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1864432736|ref|XM_035274632.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1864432734|ref|XM_035274631.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1864432732|ref|XM_035274630.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1864432730|ref|XM_035274629.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1864432726|ref|XM_035274627.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1864432724|ref|XM_035274626.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1864432722|ref|XM_035274625.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1777297969|ref|XM_021933409.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1777297968|ref|XM_021933406.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1777297967|ref|XM_021933403.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1777297966|ref|XM_021933402.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1777297965|ref|XM_021933399.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1984076022|ref|XM_039477216.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1864432744|ref|XM_035274636.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X19, mRNA
+gi|1864432742|ref|XM_035274635.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|1864432740|ref|XM_035274634.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|795596403|ref|XM_012059841.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|795596400|ref|XM_012059840.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|795596385|ref|XM_012059839.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|795596380|ref|XM_012059838.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|795596375|ref|XM_012059837.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1214036013|ref|XM_021714904.1| PREDICTED: Carlito syrichta forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|640808988|ref|XM_008062851.1| PREDICTED: Carlito syrichta forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1327789521|ref|XM_023510634.1| PREDICTED: Otolemur garnettii forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1327789519|ref|XM_023510633.1| PREDICTED: Otolemur garnettii forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1327789517|ref|XM_023510632.1| PREDICTED: Otolemur garnettii forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1327789515|ref|XM_012802528.2| PREDICTED: Otolemur garnettii forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1327789525|ref|XM_023510636.1| PREDICTED: Otolemur garnettii forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1327789523|ref|XM_012802529.2| PREDICTED: Otolemur garnettii forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1843658095|ref|NM_001244810.2| Homo sapiens forkhead box P1 (FOXP1), transcript variant 4, mRNA
+gi|113201775|gb|DQ845346.1| Homo sapiens PAX5/FOXP1 fusion protein (PAX5/FOXP1 fusion) mRNA, complete cds
+gi|1843658071|ref|NM_001349342.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 15, mRNA
+gi|1678207178|ref|NM_001244815.2| Homo sapiens forkhead box P1 (FOXP1), transcript variant 8, mRNA
+gi|1849115050|ref|XM_034956881.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|1753064342|ref|XM_031009107.1| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1367266521|ref|XM_016940111.2| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X23, mRNA
+gi|14041832|dbj|AK027264.1| Homo sapiens cDNA FLJ14358 fis, clone HEMBA1000158, weakly similar to HEPATOCYTE NUCLEAR FACTOR 3-GAMMA
+gi|1753064356|ref|XM_031009111.1| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1843658086|ref|NM_001349343.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 16, mRNA
+gi|1753064344|ref|XM_004035885.3| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1849115040|ref|XM_034956876.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1367266504|ref|XM_009445852.3| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1678207192|ref|NM_001370548.1| Homo sapiens forkhead box P1 (FOXP1), transcript variant 20, mRNA
+gi|1678198096|ref|NM_001349337.2| Homo sapiens forkhead box P1 (FOXP1), transcript variant 10, mRNA
+gi|1849114996|ref|XM_034956864.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1367266458|ref|XM_001141148.6| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1743191621|ref|XM_030802009.1| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1743191614|ref|XM_003264884.4| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1799969031|ref|XM_032149492.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1753064358|ref|XM_031009112.1| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1799969021|ref|XM_032149487.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1788685837|ref|XM_031935180.1| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1059182724|ref|XM_017892170.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1753064347|ref|XM_031009108.1| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1753064346|ref|XM_019023993.2| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1849115044|ref|XM_034956878.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1367266506|ref|XM_009445855.3| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|1059182704|ref|XM_017892159.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1825833301|ref|XM_033210445.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X19, mRNA
+gi|1059182732|ref|XM_017892176.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|795191064|ref|XM_011947138.1| PREDICTED: Colobus angolensis palliatus forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1849115020|ref|XM_034956866.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1849114998|ref|XM_034956865.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1367266465|ref|XM_009445845.3| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1367266461|ref|XM_009445844.3| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1743191624|ref|XM_030802010.1| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1825833265|ref|XM_033210425.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1351492234|ref|XM_009238793.2| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1743191617|ref|XM_030802007.1| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1743191615|ref|XM_030802006.1| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1799969033|ref|XM_032149494.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1799969025|ref|XM_032149489.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1799969023|ref|XM_032149488.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1059182728|ref|XM_017892172.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1753064350|ref|XM_031009109.1| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1297604395|ref|XM_023200076.1| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1411132871|ref|XM_025374729.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|795085435|ref|XM_011971164.1| PREDICTED: Mandrillus leucophaeus forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|795085431|ref|XM_011971157.1| PREDICTED: Mandrillus leucophaeus forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1938855035|ref|XM_038002513.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1059182708|ref|XM_017892161.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1059182706|ref|XM_017892160.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1849115030|ref|XM_034956871.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1367266489|ref|XM_024355234.1| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|795191070|ref|XM_011947139.1| PREDICTED: Colobus angolensis palliatus forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1751186327|ref|XM_010385986.2| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1411132893|ref|XM_025374741.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1381516322|ref|XM_011737588.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|795637383|ref|XM_011737592.1| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|1825833269|ref|XM_033210427.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1825833267|ref|XM_033210426.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1751186349|ref|XM_010385991.2| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1351492238|ref|XM_009238795.2| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1351492237|ref|XM_009238794.2| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1743191619|ref|XM_030802008.1| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1411132873|ref|XM_025374730.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|795637336|ref|XM_011737578.1| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|795085440|ref|XM_011971173.1| PREDICTED: Mandrillus leucophaeus forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1777297982|ref|XM_021933436.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X20, mRNA
+gi|795596445|ref|XM_012059851.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1799969027|ref|XM_032149490.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|1777297970|ref|XM_003894192.5| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|795596406|ref|XM_012059842.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|2161882142|ref|XM_005547604.3| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1938855014|ref|XM_007984967.2| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|2161882138|ref|XM_045384796.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1788685828|ref|XM_023200081.2| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1297604402|ref|XM_023200085.1| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1751186330|ref|XM_030918060.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1751186328|ref|XM_030918016.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1411132897|ref|XM_025374743.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1381516326|ref|XM_011737590.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1825833285|ref|XM_033210436.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1411132875|ref|XM_025374732.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1381516312|ref|XM_024792175.1| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1381516311|ref|XM_011737579.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1777297984|ref|XM_009200349.4| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X22, mRNA
+gi|795596441|ref|XM_012059850.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1212391531|ref|XM_012474121.2| PREDICTED: Aotus nancymaae forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1777297973|ref|XM_009200343.4| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1777297972|ref|XM_009200344.4| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|795596414|ref|XM_012059844.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|795596409|ref|XM_012059843.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|2161882146|ref|XM_015445376.2| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|2161882144|ref|XM_015445375.2| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1938855016|ref|XM_007984968.2| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1938855015|ref|XM_007984969.2| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|2161882140|ref|XM_045384797.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1212391527|ref|XM_012474076.2| PREDICTED: Aotus nancymaae forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1751186339|ref|XM_030918286.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|795637357|ref|XM_011737585.1| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|817261554|ref|XM_012474109.1| PREDICTED: Aotus nancymaae forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|795596420|ref|XM_012059846.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1212391529|ref|XM_012474083.2| PREDICTED: Aotus nancymaae forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1212391528|ref|XM_012474090.2| PREDICTED: Aotus nancymaae forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1933956033|ref|XM_037743580.1| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1984076006|ref|XM_003939459.3| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1933956020|ref|XM_017542803.2| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1804380179|ref|XM_032289658.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X19, mRNA
+gi|1933956040|ref|XM_017542802.2| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1804380143|ref|XM_032289639.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1804380187|ref|XM_032289662.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X23, mRNA
+gi|1212391530|ref|XM_012474099.2| PREDICTED: Aotus nancymaae forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|2168861525|ref|XM_045529635.1| PREDICTED: Lemur catta forkhead box protein P1 (LOC123623006), transcript variant X4, mRNA
+gi|1933956036|ref|XM_037743581.1| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1984076026|ref|XM_010350111.2| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1984076024|ref|XM_039477217.1| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1933956022|ref|XM_017542805.2| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1933956021|ref|XM_017542806.2| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1804380183|ref|XM_032289660.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X21, mRNA
+gi|1864432750|ref|XM_035274640.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X22, mRNA
+gi|1804380147|ref|XM_032289641.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1804380145|ref|XM_032289640.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1863975747|ref|XM_003734876.4| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|2168861529|ref|XM_045529637.1| PREDICTED: Lemur catta forkhead box protein P1 (LOC123623006), transcript variant X6, mRNA
+gi|2168861527|ref|XM_045529636.1| PREDICTED: Lemur catta forkhead box protein P1 (LOC123623006), transcript variant X5, mRNA
+gi|1864432764|ref|XM_035274647.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X29, mRNA
+gi|1933956025|ref|XM_037743577.1| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1864432758|ref|XM_035274644.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X26, mRNA
+gi|1864432756|ref|XM_035274643.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X25, mRNA
+gi|1804380169|ref|XM_032289652.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|826317315|ref|XM_012652644.1| PREDICTED: Propithecus coquereli forkhead box P1 (FOXP1), mRNA
+gi|1864432720|ref|XM_035274624.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1863975748|ref|XM_008982016.3| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1777297962|ref|XM_021933385.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|795596370|ref|XM_012059836.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|2161882130|ref|XM_045384792.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|2161882128|ref|XM_045384791.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|2161882126|ref|XM_045384790.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|2161882124|ref|XM_045384789.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|2161882122|ref|XM_045384788.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1864432738|ref|XM_035274633.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1777297964|ref|XM_021933398.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1777297963|ref|XM_021933389.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|2161882134|ref|XM_045384794.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1843658108|ref|NM_001244813.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 6, mRNA
+gi|1214036009|ref|XM_021714902.1| PREDICTED: Carlito syrichta forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|22760093|dbj|AK074569.1| Homo sapiens cDNA FLJ90088 fis, clone HEMBA1005246
+gi|1843658000|ref|NM_001349344.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 17, mRNA
+gi|1849115042|ref|XM_034956877.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1367266513|ref|XM_003950141.4| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X20, mRNA
+gi|1743191623|ref|XM_004091771.3| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1214036011|ref|XM_021714903.1| PREDICTED: Carlito syrichta forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1799969029|ref|XM_032149491.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1351492243|ref|XM_003776208.3| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1059182726|ref|XM_017892171.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1214036007|ref|XM_021714901.1| PREDICTED: Carlito syrichta forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1799969037|ref|XM_032149496.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1351492244|ref|XM_009238799.2| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1849115046|ref|XM_034956879.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1367266509|ref|XM_009445856.3| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|1825833299|ref|XM_033210444.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|1788685835|ref|XM_023200120.3| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1751186347|ref|XM_030918440.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1743191626|ref|XM_030802011.1| PREDICTED: Nomascus leucogenys forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1799969035|ref|XM_032149495.1| PREDICTED: Hylobates moloch forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1351492245|ref|XM_024244294.1| PREDICTED: Pongo abelii forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1059182730|ref|XM_017892175.1| PREDICTED: Rhinopithecus bieti forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1411132891|ref|XM_025374740.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1381516323|ref|XM_024792178.1| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|795085460|ref|XM_011971206.1| PREDICTED: Mandrillus leucophaeus forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1825833297|ref|XM_033210443.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|1788685836|ref|XM_023200125.2| PREDICTED: Piliocolobus tephrosceles forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1751186345|ref|XM_030918410.1| PREDICTED: Rhinopithecus roxellana forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1777297983|ref|XM_003894194.5| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X21, mRNA
+gi|795596436|ref|XM_012059849.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|2161882158|ref|XM_005547610.3| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X19, mRNA
+gi|1938855032|ref|XM_007984980.2| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1381516325|ref|XM_011737589.2| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1938855030|ref|XM_038002511.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1411132895|ref|XM_025374742.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|795637380|ref|XM_011737591.1| PREDICTED: Macaca nemestrina forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1777297985|ref|XM_009200350.4| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X23, mRNA
+gi|2161882160|ref|XM_015445389.2| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X20, mRNA
+gi|1938855033|ref|XM_038002512.1| PREDICTED: Chlorocebus sabaeus forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1149867899|ref|XM_020284829.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1149867897|ref|XM_020284828.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1149867895|ref|XM_020284827.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1149867893|ref|XM_020284826.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1149867891|ref|XM_020284825.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1149867889|ref|XM_020284824.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|1149867903|ref|XM_020284831.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1149867901|ref|XM_020284830.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1327789527|ref|XM_023510637.1| PREDICTED: Otolemur garnettii forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|1933956035|ref|XM_017542813.2| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1804380181|ref|XM_032289659.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X20, mRNA
+gi|1984076028|ref|XM_010350109.2| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|2168861519|ref|XM_045529632.1| PREDICTED: Lemur catta forkhead box protein P1 (LOC123623006), transcript variant X1, mRNA
+gi|1933956038|ref|XM_037743582.1| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|2168861521|ref|XM_045529633.1| PREDICTED: Lemur catta forkhead box protein P1 (LOC123623006), transcript variant X2, mRNA
+gi|1804380185|ref|XM_032289661.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X22, mRNA
+gi|1984076027|ref|XM_010350112.2| PREDICTED: Saimiri boliviensis boliviensis forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1864432752|ref|XM_035274641.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X23, mRNA
+gi|2168861523|ref|XM_045529634.1| PREDICTED: Lemur catta forkhead box protein P1 (LOC123623006), transcript variant X3, mRNA
+gi|1864432714|ref|XM_035274621.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1864432754|ref|XM_035274642.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X24, mRNA
+gi|1864432762|ref|XM_035274646.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X28, mRNA
+gi|1864432760|ref|XM_035274645.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X27, mRNA
+gi|1864432718|ref|XM_035274623.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1864432716|ref|XM_035274622.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1777297978|ref|XM_021933422.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1777297979|ref|XM_021933424.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|1777297980|ref|XM_021933427.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|795596431|ref|XM_012059848.1| PREDICTED: Cercocebus atys forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1214036017|ref|XM_021714906.1| PREDICTED: Carlito syrichta forkhead box P1 (FOXP1), transcript variant X7, mRNA
+gi|32493310|gb|BC054505.1| Homo sapiens forkhead box P1, mRNA (cDNA clone IMAGE:5503553), with apparent retained intron
+gi|2161882132|ref|XM_045384793.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|194387303|dbj|AK297649.1| Homo sapiens cDNA FLJ58267 complete cds, highly similar to Forkhead box protein P1
+gi|2161882136|ref|XM_045384795.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1753064360|ref|XR_002005313.2| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X12, misc_RNA
+gi|1149867881|ref|XM_020284820.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X1, mRNA
+gi|1753064355|ref|XM_019023995.2| PREDICTED: Gorilla gorilla gorilla forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1149867905|ref|XM_020284832.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X13, mRNA
+gi|1149867885|ref|XM_020284822.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X3, mRNA
+gi|1149867883|ref|XM_020284821.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X2, mRNA
+gi|1149867911|ref|XM_020284835.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1149867887|ref|XM_020284823.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X4, mRNA
+gi|2161882156|ref|XM_045384802.1| PREDICTED: Macaca fascicularis forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|1149867915|ref|XM_020284837.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|1843657936|ref|NM_001244812.3| Homo sapiens forkhead box P1 (FOXP1), transcript variant 5, mRNA
+gi|1124885081|gb|AF146697.2| Homo sapiens clone pAB196 FOXP1 (FOXP1) mRNA, partial cds
+gi|21750964|dbj|AK092383.1| Homo sapiens cDNA FLJ35064 fis, clone PEBLM1000147, moderately similar to Glutamine (Q)-rich factor 1, QRF-1
+gi|1849115038|ref|XM_034956875.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X12, mRNA
+gi|1849115036|ref|XM_034956874.1| PREDICTED: Pan paniscus forkhead box P1 (FOXP1), transcript variant X11, mRNA
+gi|1367266501|ref|XM_024355236.1| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1367266498|ref|XM_009445850.3| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1149867907|ref|XM_020284833.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1149867909|ref|XM_020284834.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1825833295|ref|XM_033210442.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X16, mRNA
+gi|1825833293|ref|XM_033210440.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X15, mRNA
+gi|1825833291|ref|XM_033210439.1| PREDICTED: Trachypithecus francoisi forkhead box P1 (FOXP1), transcript variant X14, mRNA
+gi|1149867913|ref|XM_020284836.1| PREDICTED: Microcebus murinus forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|1411132889|ref|XM_025374739.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X10, mRNA
+gi|1411132887|ref|XM_025374738.1| PREDICTED: Theropithecus gelada forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|795191091|ref|XM_011947142.1| PREDICTED: Colobus angolensis palliatus forkhead box P1 (FOXP1), transcript variant X5, mRNA
+gi|795085455|ref|XM_011971199.1| PREDICTED: Mandrillus leucophaeus forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1804380177|ref|XM_032289657.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X18, mRNA
+gi|1804380175|ref|XM_032289656.1| PREDICTED: Sapajus apella forkhead box P1 (FOXP1), transcript variant X17, mRNA
+gi|1933956032|ref|XM_017542810.2| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X9, mRNA
+gi|1933956030|ref|XM_037743579.1| PREDICTED: Cebus imitator forkhead box P1 (FOXP1), transcript variant X8, mRNA
+gi|1367266511|ref|XR_001713015.2| PREDICTED: Pan troglodytes forkhead box P1 (FOXP1), transcript variant X19, misc_RNA
+gi|1864432748|ref|XM_035274639.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X21, mRNA
+gi|1864432746|ref|XM_035274638.1| PREDICTED: Callithrix jacchus forkhead box P1 (FOXP1), transcript variant X20, mRNA
+gi|126153369|gb|BC131720.1| Homo sapiens forkhead box P1, mRNA (cDNA clone IMAGE:40123493), partial cds
+gi|1214036015|ref|XM_021714905.1| PREDICTED: Carlito syrichta forkhead box P1 (FOXP1), transcript variant X6, mRNA
+gi|1777297981|ref|XR_002519830.2| PREDICTED: Papio anubis forkhead box P1 (FOXP1), transcript variant X19, misc_RNA
+gi|14582215|gb|AF275309.1|AF275309 Homo sapiens transcription factor FOXP1 (FOXP1) mRNA, partial cds
+gi|1126394129|gb|AF146698.2| Homo sapiens FOXP1 (FOXP1) mRNA, complete cds
+gi|27529938|dbj|AB052767.1| Homo sapiens hFKHLB mRNA for fork head-related protein like B, complete cds
+gi|343958167|dbj|AK305945.1| Pan troglodytes mRNA for forkhead box protein P1, complete cds, clone: PtsC-72-5_G05
+gi|826317628|ref|XM_012652754.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X9, mRNA
+gi|1297692196|ref|XM_023228238.1| PREDICTED: Piliocolobus tephrosceles forkhead box P2 (FOXP2), transcript variant X6, mRNA
+gi|826317625|ref|XM_012652753.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X8, mRNA
+gi|1297692194|ref|XM_023228237.1| PREDICTED: Piliocolobus tephrosceles forkhead box P2 (FOXP2), transcript variant X5, mRNA
+gi|826317621|ref|XM_012652752.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X7, mRNA
+gi|826317617|ref|XM_012652751.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X6, mRNA
+gi|826317614|ref|XM_012652750.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X5, mRNA
+gi|826317611|ref|XM_012652749.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X4, mRNA
+gi|826317608|ref|XM_012652748.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X3, mRNA
+gi|826317605|ref|XM_012652746.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X2, mRNA
+gi|826317601|ref|XM_012652745.1| PREDICTED: Propithecus coquereli forkhead box P2 (FOXP2), transcript variant X1, mRNA
+gi|1149757233|ref|XM_020289760.1| PREDICTED: Microcebus murinus forkhead box P2 (FOXP2), mRNA
+gi|2168838970|ref|XM_045564484.1| PREDICTED: Lemur catta forkhead box P2 (FOXP2), transcript variant X2, mRNA
+gi|817284387|ref|XM_012456997.1| PREDICTED: Aotus nancymaae forkhead box P2 (FOXP2), mRNA
+gi|1788696662|ref|XM_023228239.3| PREDICTED: Piliocolobus tephrosceles forkhead box P2 (FOXP2), transcript variant X7, mRNA
+gi|1788696661|ref|XM_023228236.3| PREDICTED: Piliocolobus tephrosceles forkhead box P2 (FOXP2), transcript variant X4, mRNA
+gi|1788696660|ref|XM_023228235.3| PREDICTED: Piliocolobus tephrosceles forkhead box P2 (FOXP2), transcript variant X3, mRNA
+gi|1788696659|ref|XM_023228233.3| PREDICTED: Piliocolobus tephrosceles forkhead box P2 (FOXP2), transcript variant X1, mRNA
+gi|1482588894|ref|XM_023228234.2| PREDICTED: Piliocolobus tephrosceles forkhead box P2 (FOXP2), transcript variant X2, mRNA
+gi|1351510831|ref|XM_024250289.1| PREDICTED: Pongo abelii forkhead box P2 (FOXP2), mRNA
+gi|2161899360|ref|XM_045388542.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X13, mRNA
+gi|2161899358|ref|XM_045388541.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X12, mRNA
+gi|2161899356|ref|XM_045388540.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X11, mRNA
+gi|2161899354|ref|XM_045388539.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X10, mRNA
+gi|2161899352|ref|XM_045388538.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X9, mRNA
+gi|2161899351|ref|XM_015447961.2| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X8, mRNA
+gi|2161899349|ref|XM_045388537.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X7, mRNA
+gi|2161899347|ref|XM_045388536.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X6, mRNA
+gi|2161899345|ref|XM_045388535.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X5, mRNA
+gi|2161899343|ref|XM_045388534.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X4, mRNA
+gi|2161899341|ref|XM_045388533.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X3, mRNA
+gi|2161899339|ref|XM_045388532.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X2, mRNA
+gi|2161899337|ref|XM_045388531.1| PREDICTED: Macaca fascicularis forkhead box P2 (FOXP2), transcript variant X1, mRNA
+gi|22596910|gb|AF512949.1| Pongo pygmaeus forkhead box P2 (FOXP2) mRNA, complete cds
+gi|24496240|gb|AY143181.1| Pongo pygmaeus FOXP2 protein (FOXP2) mRNA, complete cds
+gi|1825929291|ref|XM_033192941.1| PREDICTED: Trachypithecus francoisi forkhead box P2 (FOXP2), mRNA
+gi|1751286731|ref|XM_030933310.1| PREDICTED: Rhinopithecus roxellana forkhead box P2 (FOXP2), transcript variant X2, mRNA
+gi|1751286729|ref|XM_030933309.1| PREDICTED: Rhinopithecus roxellana forkhead box P2 (FOXP2), transcript variant X1, mRNA
+gi|1059142983|ref|XM_017864605.1| PREDICTED: Rhinopithecus bieti forkhead box P2 (FOXP2), mRNA
+gi|37542794|gb|AY064615.1| Pongo pygmaeus forkhead/winged-helix transcription factor (FOXP2) mRNA, partial cds
