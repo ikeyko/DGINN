@@ -1,0 +1,41 @@
+# BLASTN 2.13.0+
+# Query: homSap_ERFL_ENSG00000268041
+# Database: nr					
+# Fields: subject id, ?
+# 991 hits found
+gi|1779421305|ref|NM_001365103.2| Homo sapiens ETS repressor factor like (ERFL), mRNA
+gi|1849066068|ref|XM_034946138.1| PREDICTED: Pan paniscus ETS repressor factor like (ERFL), transcript variant X2, mRNA
+gi|1849066066|ref|XM_034946137.1| PREDICTED: Pan paniscus ETS repressor factor like (ERFL), transcript variant X1, mRNA
+gi|1753051896|ref|XM_031004087.1| PREDICTED: Gorilla gorilla gorilla ETS repressor factor like (ERFL), mRNA
+gi|1367228245|ref|XM_016934257.2| PREDICTED: Pan troglodytes ETS translocation variant 3-like protein (LOC104003381), transcript variant X3, mRNA
+gi|1800057642|ref|XM_032147753.1| PREDICTED: Hylobates moloch ETS repressor factor like (ERFL), mRNA
+gi|1743171567|ref|XM_030797138.1| PREDICTED: Nomascus leucogenys ETS repressor factor like (ERFL), mRNA
+gi|1751206592|ref|XM_030913123.1| PREDICTED: Rhinopithecus roxellana ETS repressor factor like (ERFL), transcript variant X2, mRNA
+gi|1751206590|ref|XM_030913122.1| PREDICTED: Rhinopithecus roxellana ETS repressor factor like (ERFL), transcript variant X1, mRNA
+gi|1938921962|ref|XM_007996944.2| PREDICTED: Chlorocebus sabaeus ETS repressor factor like (ERFL), mRNA
+gi|1622894000|ref|XM_001118376.3| PREDICTED: Macaca mulatta ETS domain-containing transcription factor ERF (LOC722195), mRNA
+gi|1381461550|ref|XM_011764608.2| PREDICTED: Macaca nemestrina ETS domain-containing transcription factor ERF (LOC105495277), mRNA
+gi|795398755|ref|XM_012086903.1| PREDICTED: Cercocebus atys ETS domain-containing transcription factor ERF (LOC105598040), transcript variant X2, mRNA
+gi|795398751|ref|XM_012086902.1| PREDICTED: Cercocebus atys ETS domain-containing transcription factor ERF (LOC105598040), transcript variant X1, mRNA
+gi|795137879|ref|XM_011936591.1| PREDICTED: Colobus angolensis palliatus ETS domain-containing transcription factor ERF (LOC105507874), mRNA
+gi|2161875531|ref|XM_045379538.1| PREDICTED: Macaca fascicularis ETS repressor factor like (ERFL), transcript variant X2, mRNA
+gi|1825830240|ref|XM_033198263.1| PREDICTED: Trachypithecus francoisi ETS repressor factor like (ERFL), mRNA
+gi|1411126164|ref|XM_025365920.1| PREDICTED: Theropithecus gelada ETS translocation variant 3-like protein (LOC112611967), mRNA
+gi|1777310772|ref|XM_021930375.2| PREDICTED: Papio anubis ETS repressor factor like (ERFL), mRNA
+gi|795073212|ref|XM_011984131.1| PREDICTED: Mandrillus leucophaeus ETS domain-containing transcription factor ERF (LOC105542543), mRNA
+gi|1984108009|ref|XM_039466139.1| PREDICTED: Saimiri boliviensis boliviensis ETS repressor factor like (ERFL), transcript variant X2, mRNA
+gi|1788688646|ref|XM_023229355.3| PREDICTED: Piliocolobus tephrosceles ETS repressor factor like (ERFL), mRNA
+gi|1804425839|ref|XM_032249298.1| PREDICTED: Sapajus apella ETS repressor factor like (ERFL), transcript variant X2, mRNA
+gi|1933986077|ref|XM_017503134.2| PREDICTED: Cebus imitator ETS repressor factor like (ERFL), transcript variant X2, mRNA
+gi|817292794|ref|XM_012461345.1| PREDICTED: Aotus nancymaae ETS domain-containing transcription factor ERF (LOC105723390), mRNA
+gi|1864461942|ref|XM_008988092.4| PREDICTED: Callithrix jacchus ETS repressor factor like (ERFL), transcript variant X2, mRNA
+gi|1984108007|ref|XM_039466138.1| PREDICTED: Saimiri boliviensis boliviensis ETS repressor factor like (ERFL), transcript variant X1, mRNA
+gi|2168865680|ref|XM_045531605.1| PREDICTED: Lemur catta ETS repressor factor like (ERFL), mRNA
+gi|830015684|ref|XM_012758467.1| PREDICTED: Microcebus murinus ETS domain-containing transcription factor ERF (LOC105867990), mRNA
+gi|826318929|ref|XM_012653217.1| PREDICTED: Propithecus coquereli ETS domain-containing transcription factor ERF (LOC105817508), mRNA
+gi|1214047418|ref|XM_008071041.2| PREDICTED: Carlito syrichta ETS domain-containing transcription factor ERF (LOC103273608), partial mRNA
+gi|1367228241|ref|XM_016934256.2| PREDICTED: Pan troglodytes ETS translocation variant 3-like protein (LOC104003381), transcript variant X1, mRNA
+gi|1034127614|ref|XM_009435671.2| PREDICTED: Pan troglodytes ETS translocation variant 3-like protein (LOC104003381), transcript variant X2, mRNA
+gi|1804425837|ref|XM_032249297.1| PREDICTED: Sapajus apella ETS repressor factor like (ERFL), transcript variant X1, mRNA
+gi|1933986074|ref|XM_037729427.1| PREDICTED: Cebus imitator ETS repressor factor like (ERFL), transcript variant X1, mRNA
+gi|1864461940|ref|XM_035284598.1| PREDICTED: Callithrix jacchus ETS repressor factor like (ERFL), transcript variant X1, mRNA
