@@ -1,0 +1,40 @@
+# BLASTN 2.13.0+
+# Query: homSap_ASCL5_CCDS59202
+# Database: nr					
+# Fields: subject id, ?
+# 364 hits found
+gi|1543384572|ref|NG_009816.2| Homo sapiens calcium voltage-gated channel subunit alpha1 S (CACNA1S), RefSeqGene on chromosome 1
+gi|1912229850|ref|NM_001270601.2| Homo sapiens achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|28273165|tpg|BK000139.1| TPA_exp: Homo sapiens chromosome 1 class II basic helix-loop-helix protein gene, partial cds
+gi|21955465|emb|AL139159.10| Human DNA sequence from clone RP5-894H24 on chromosome 1, complete sequence
+gi|1848996178|ref|XR_004667466.1| PREDICTED: Pan paniscus achaete-scute family bHLH transcription factor 5 (ASCL5), transcript variant X3, misc_RNA
+gi|1848996177|ref|XR_004667465.1| PREDICTED: Pan paniscus achaete-scute family bHLH transcription factor 5 (ASCL5), transcript variant X2, misc_RNA
+gi|1848996175|ref|XM_034943382.1| PREDICTED: Pan paniscus achaete-scute family bHLH transcription factor 5 (ASCL5), transcript variant X1, mRNA
+gi|1367110369|ref|XM_016935481.2| PREDICTED: Pan troglodytes achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1753024915|ref|XM_031013611.1| PREDICTED: Gorilla gorilla gorilla achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1351371134|ref|XM_024235842.1| PREDICTED: Pongo abelii achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1743229493|ref|XM_030818680.1| PREDICTED: Nomascus leucogenys achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1800035480|ref|XM_032136479.1| PREDICTED: Hylobates moloch achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1825944818|ref|XM_033200743.1| PREDICTED: Trachypithecus francoisi achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1777249059|ref|XM_003893328.5| PREDICTED: Papio anubis achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1622828257|ref|XM_015120478.2| PREDICTED: Macaca mulatta achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|2161800332|ref|XM_045394699.1| PREDICTED: Macaca fascicularis achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1751187775|ref|XM_010362679.2| PREDICTED: Rhinopithecus roxellana achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1411076784|ref|XM_025382381.1| PREDICTED: Theropithecus gelada achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1938899566|ref|XM_007988989.2| PREDICTED: Chlorocebus sabaeus achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1297685164|ref|XM_023224708.1| PREDICTED: Piliocolobus tephrosceles achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|795227743|ref|XM_012036910.1| PREDICTED: Cercocebus atys achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1933979141|ref|XM_017499411.2| PREDICTED: Cebus imitator achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1804378189|ref|XM_032288685.1| PREDICTED: Sapajus apella achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1059194418|ref|XM_017896515.1| PREDICTED: Rhinopithecus bieti achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1864447045|ref|XM_035280877.1| PREDICTED: Callithrix jacchus achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1984106295|ref|XM_039465545.1| PREDICTED: Saimiri boliviensis boliviensis achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|1212380743|ref|XM_021677339.1| PREDICTED: Aotus nancymaae achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|826352142|ref|XM_012664957.1| PREDICTED: Propithecus coquereli achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|829950749|ref|XM_012744322.1| PREDICTED: Microcebus murinus achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|831229877|ref|XM_012806610.1| PREDICTED: Otolemur garnettii achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|2168883806|ref|XM_045536183.1| PREDICTED: Lemur catta achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|795367288|ref|XM_011931836.1| PREDICTED: Colobus angolensis palliatus achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|795187800|ref|XM_011990609.1| PREDICTED: Mandrillus leucophaeus achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
+gi|640784493|ref|XM_008049749.1| PREDICTED: Carlito syrichta achaete-scute family bHLH transcription factor 5 (ASCL5), partial mRNA
+gi|1381415013|ref|XM_024793634.1| PREDICTED: Macaca nemestrina achaete-scute family bHLH transcription factor 5 (ASCL5), mRNA
