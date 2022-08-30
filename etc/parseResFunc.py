@@ -194,7 +194,7 @@ def ResPamlExtract(models, dModelLlh, dModelFile, pr):
 	return(d)
 
 def ResPaml(posDir, pr):
-	PAML = posDir+"/paml_site/"
+	PAML = posDir+"/paml_site/C/"
 	lModels = ["M1","M2","M7","M8","M8a"]
 	lcpl=[("M1","M2"),("M7","M8"), ("M8a","M8")]
 	dModelLlh = OrderedDict({model:"na" for model in lModels})
