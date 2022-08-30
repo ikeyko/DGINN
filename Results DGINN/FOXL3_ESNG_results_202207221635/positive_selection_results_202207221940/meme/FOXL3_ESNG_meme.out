@@ -1,0 +1,60 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.1.1
+
+
+>code –> Universal
+
+>Loaded a multiple sequence alignment with **19** sequences, **241** codons, and **1** partitions from `/home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723.best.fas`
+
+>branches –> All
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 
+>pvalue –> 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 35 branches to include in the MEME analysis: `rhiBie_LOC108542469_XM_017892511, traFra_FOXL3_XM_033193781, rhiRox_LOC104664932_XM_030932018, pilTep_FOXL3_XM_023188540, macFas_FOXL3_XM_045388018, chlSab_FOXL3_XM_008018930, papAnu_LOC100997057_XM_031665878, theGel_LOC112621589_XM_025381046, Node13, macMul_LOC702793_XM_001091091, macFas_FOXL3_XM_005548949, macNem_LOC105483432_XM_011744343, Node19, homSap_FOXL3_ENSG00000248767, panPan_FOXL3_XM_034965416, Node23, gorGorGor_LOC101137760_XM_031012944, nomLeu_LOC115831937_XM_030801489_clust, Node26, Node22, Node18, Node16, Node12, Node10, saiBolBol_FOXL3_XM_003943761, otoGar_LOC100962385_XM_003795501, micMur_LOC105868272_XM_012758883, lemCat_FOXL3_XM_045542131, Node33, Node31, Node29, Node9, Node7, Node5, Node3`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -1464.90, AIC-c =  3016.08 (43 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -1421.47, AIC-c =  2944.07 (50 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0974
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -1410.40
+* non-synonymous/synonymous rate ratio for *test* =   0.0595
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    205     |     1      |    0.000   |    7.132   |    0.204   |    3.210   |      Yes, p =  0.0956      |     2      |
+
+### ** Found _1_ sites under episodic diversifying positive selection at p <= 0.1**
