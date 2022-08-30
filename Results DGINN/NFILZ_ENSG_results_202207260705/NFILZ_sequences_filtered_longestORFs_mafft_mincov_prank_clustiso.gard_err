@@ -1,0 +1,1140 @@
+[9f7b72dd1077:00433] Read -1, expected 19469, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 19469, errno = 1
+[9f7b72dd1077:00435] Read -1, expected 19469, errno = 1
+[2K[GARD] Breakpoint          1 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint          2 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint          3 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint          4 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint          5 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint          6 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint          7 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint          8 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint          9 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         10 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         11 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         12 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         13 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         14 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         15 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         16 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         17 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         18 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         19 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         20 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         21 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         22 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         23 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         24 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         25 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         26 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         27 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         28 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         29 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         30 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         31 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         32 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         33 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         34 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         35 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         36 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         37 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         38 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         39 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         40 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         41 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         42 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         43 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         44 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         45 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         46 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         47 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         48 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         49 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         50 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         51 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         52 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         53 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         54 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         55 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         56 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         57 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         58 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         59 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         60 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         61 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         62 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         63 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         64 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         65 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         66 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         67 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         68 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         69 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         70 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         71 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         72 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         73 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         74 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         75 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         76 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         77 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         78 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         79 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         80 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         81 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         82 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         83 of 201. Best cAIC =    6433.6719 with no breakpoints[2K[GARD] Breakpoint         84 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         85 of 201. Best cAIC =    6433.6719 with no breakpoints[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         86 of 201. Best cAIC =    6431.9143 [delta =       1.7576] with breakpoint at site        952[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         87 of 201. Best cAIC =    6431.9143 [delta =       1.7576] with breakpoint at site        952[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         88 of 201. Best cAIC =    6429.9417 [delta =       3.7302] with breakpoint at site        956[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         89 of 201. Best cAIC =    6429.9417 [delta =       3.7302] with breakpoint at site        956[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         90 of 201. Best cAIC =    6429.7192 [delta =       3.9528] with breakpoint at site        959[9f7b72dd1077:00434] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         91 of 201. Best cAIC =    6429.7192 [delta =       3.9528] with breakpoint at site        959[9f7b72dd1077:00433] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         92 of 201. Best cAIC =    6426.8982 [delta =       6.7737] with breakpoint at site        970[9f7b72dd1077:00435] Read -1, expected 32678, errno = 1
+[2K[GARD] Breakpoint         93 of 201. Best cAIC =    6426.8982 [delta =       6.7737] with breakpoint at site        970[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint         94 of 201. Best cAIC =    6426.0658 [delta =       7.6062] with breakpoint at site        987[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint         95 of 201. Best cAIC =    6426.0658 [delta =       7.6062] with breakpoint at site        987[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint         96 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint         97 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint         98 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint         99 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        100 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        101 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        102 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        103 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        104 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        105 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        106 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        107 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        108 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        109 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        110 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        111 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        112 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        113 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        114 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        115 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        116 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        117 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        118 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        119 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        120 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        121 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        122 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        123 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        124 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        125 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        126 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        127 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        128 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        129 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        130 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        131 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        132 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        133 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        134 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        135 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        136 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        137 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        138 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        139 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        140 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        141 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        142 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        143 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        144 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        145 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        146 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        147 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        148 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        149 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        150 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        151 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        152 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        153 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        154 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        155 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        156 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        157 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        158 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        159 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        160 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        161 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        162 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        163 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        164 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        165 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        166 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        167 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        168 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        169 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        170 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        171 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        172 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        173 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        174 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        175 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        176 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        177 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        178 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        179 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        180 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        181 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        182 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        183 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        184 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        185 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        186 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        187 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        188 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        189 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        190 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        191 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00435] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        192 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00433] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        193 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[9f7b72dd1077:00434] Read -1, expected 32679, errno = 1
+[2K[GARD] Breakpoint        194 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        195 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        196 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        197 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        198 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        199 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        200 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K[GARD] Breakpoint        201 of 201. Best cAIC =    6425.2589 [delta =       8.4130] with breakpoint at site        998[2K                                                                                                                       [2K[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation      1, total models      235]. Min (c-AIC) =    6436.3182 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation      2, total models      256]. Min (c-AIC) =    6436.3182 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation      3, total models      280]. Min (c-AIC) =    6435.3078 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation      4, total models      302]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation      5, total models      315]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation      6, total models      322]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation      7, total models      327]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation      8, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation      9, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     10, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     11, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     12, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     13, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     14, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     15, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     16, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     17, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     18, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     19, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     20, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     21, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     22, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     23, total models      329]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     24, total models      364]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     25, total models      388]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     26, total models      407]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     27, total models      422]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     28, total models      430]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation     29, total models      433]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation     30, total models      435]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     31, total models      435]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation     32, total models      436]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     33, total models      437]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     34, total models      437]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     35, total models      437]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     36, total models      437]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation     37, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     38, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     39, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     40, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     41, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     42, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     43, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     44, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     45, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     46, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     47, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     48, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     49, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     50, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     51, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     52, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     53, total models      439]. Min (c-AIC) =    6433.9681 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     54, total models      475]. Min (c-AIC) =    6429.7569 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     55, total models      500]. Min (c-AIC) =    6429.7569 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     56, total models      518]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     57, total models      529]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     58, total models      533]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     59, total models      537]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     60, total models      537]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     61, total models      537]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation     62, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     63, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     64, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     65, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     66, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     67, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     68, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     69, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     70, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     71, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     72, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     73, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     74, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     75, total models      538]. Min (c-AIC) =    6429.4002 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     76, total models      575]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     77, total models      600]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     78, total models      625]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     79, total models      644]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     80, total models      656]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     81, total models      662]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation     82, total models      666]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation     83, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     84, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     85, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     86, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     87, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     88, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     89, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     90, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     91, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     92, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     93, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     94, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     95, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     96, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     97, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     98, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation     99, total models      667]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    100, total models      701]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    101, total models      727]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    102, total models      751]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    103, total models      770]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    104, total models      782]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    105, total models      791]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation    106, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    107, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    108, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    109, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    110, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    111, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    112, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    113, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    114, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    115, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    116, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    117, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    118, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    119, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    120, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    121, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    122, total models      793]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[2K[GARD]   2 breakpoints [ generation    123, total models      825]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    124, total models      850]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    125, total models      873]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    126, total models      893]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    127, total models      899]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    128, total models      903]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    129, total models      903]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    130, total models      906]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    131, total models      906]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    132, total models      907]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    133, total models      907]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    134, total models      907]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    135, total models      907]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    136, total models      907]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    137, total models      907]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    138, total models      907]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    139, total models      908]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    140, total models      908]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation    141, total models      909]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    142, total models      909]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    143, total models      909]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    144, total models      909]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    145, total models      943]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    146, total models      970]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    147, total models      992]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    148, total models     1006]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    149, total models     1017]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation    150, total models     1019]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation    151, total models     1020]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    152, total models     1021]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    153, total models     1021]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation    154, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    155, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    156, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    157, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    158, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    159, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    160, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    161, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    162, total models     1022]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation    163, total models     1023]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    164, total models     1023]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    165, total models     1023]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    166, total models     1023]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    167, total models     1023]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    168, total models     1059]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    169, total models     1080]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    170, total models     1100]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    171, total models     1116]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32685, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    172, total models     1130]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[9f7b72dd1077:00433] Read -1, expected 32686, errno = 1
+[2K[GARD]   2 breakpoints [ generation    173, total models     1135]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    174, total models     1135]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[9f7b72dd1077:00433] Read -1, expected 32687, errno = 1
+[2K[GARD]   2 breakpoints [ generation    175, total models     1136]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K[GARD]   2 breakpoints [ generation    176, total models     1136]. Min (c-AIC) =    6429.3562 [no improvement], breakpoints at 998[2K                                                                                                                                   [2K
+Check messages.log.mpinode0 for diagnostic messages.

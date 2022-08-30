@@ -1,0 +1,36 @@
+# BLASTN 2.13.0+
+# Query: homSap_NFIL3_ENSG00000268480
+# Database: nr					
+# Fields: subject id, ?
+# 137 hits found
+gi|1812252036|ref|NM_001378600.1| Homo sapiens NFIL3 like basic leucine zipper (NFILZ), transcript variant 2, mRNA
+gi|1812252021|ref|NM_001378599.1| Homo sapiens NFIL3 like basic leucine zipper (NFILZ), transcript variant 1, mRNA
+gi|1812251889|ref|NM_001378601.1| Homo sapiens NFIL3 like basic leucine zipper (NFILZ), transcript variant 3, mRNA
+gi|345110687|gb|AC243312.2| Homo sapiens BAC clone RP11-468O16 from chromosome 19, complete sequence
+gi|21637475|gb|AC092566.2| Homo sapiens chromosome 19 clone LLNLR-239F4, complete sequence
+gi|2033715243|gb|CP068259.2| Homo sapiens isolate CHM13 chromosome 19
+gi|30841047|gb|AC144770.1| Homo sapiens chromosome 19 clone XXfos-87852H4, complete sequence
+gi|1909942460|dbj|AP023479.1| Homo sapiens DNA, chromosome 19, nearly complete genome
+gi|1849052469|ref|XM_034944102.1| PREDICTED: Pan paniscus NFIL3 like basic leucine zipper (NFILZ), mRNA
+gi|1820554990|ref|XM_032762003.1| PREDICTED: Hylobates moloch NFIL3 like basic leucine zipper (NFILZ), mRNA
+gi|1777309585|ref|XM_031659990.1| PREDICTED: Papio anubis uncharacterized LOC116271699 (LOC116271699), transcript variant X2, mRNA
+gi|1777309583|ref|XM_031659989.1| PREDICTED: Papio anubis uncharacterized LOC116271699 (LOC116271699), transcript variant X1, mRNA
+gi|1788688866|ref|XM_026455566.2| PREDICTED: Piliocolobus tephrosceles nuclear factor interleukin-3-regulated protein (LOC111530288), transcript variant X4, mRNA
+gi|1788688864|ref|XM_023197456.3| PREDICTED: Piliocolobus tephrosceles nuclear factor interleukin-3-regulated protein (LOC111530288), transcript variant X3, mRNA
+gi|1788688862|ref|XM_026455565.2| PREDICTED: Piliocolobus tephrosceles nuclear factor interleukin-3-regulated protein (LOC111530288), transcript variant X2, mRNA
+gi|1788688860|ref|XM_026455564.2| PREDICTED: Piliocolobus tephrosceles nuclear factor interleukin-3-regulated protein (LOC111530288), transcript variant X1, mRNA
+gi|2161877273|ref|XM_045379968.1| PREDICTED: Macaca fascicularis NFIL3 like basic leucine zipper (NFILZ), mRNA
+gi|1751291285|ref|XM_030934994.1| PREDICTED: Rhinopithecus roxellana nuclear factor interleukin-3-regulated protein (LOC115899017), transcript variant X3, mRNA
+gi|1751291283|ref|XM_030934993.1| PREDICTED: Rhinopithecus roxellana nuclear factor interleukin-3-regulated protein (LOC115899017), transcript variant X2, mRNA
+gi|1751291281|ref|XM_030934992.1| PREDICTED: Rhinopithecus roxellana nuclear factor interleukin-3-regulated protein (LOC115899017), transcript variant X1, mRNA
+gi|1938926287|ref|XM_037992418.1| PREDICTED: Chlorocebus sabaeus NFIL3 like basic leucine zipper (NFILZ), mRNA
+gi|1825937862|ref|XM_033197231.1| PREDICTED: Trachypithecus francoisi NFIL3 like basic leucine zipper (NFILZ), transcript variant X6, mRNA
+gi|1825937860|ref|XM_033197230.1| PREDICTED: Trachypithecus francoisi NFIL3 like basic leucine zipper (NFILZ), transcript variant X5, mRNA
+gi|1825937858|ref|XM_033197229.1| PREDICTED: Trachypithecus francoisi NFIL3 like basic leucine zipper (NFILZ), transcript variant X4, mRNA
+gi|1825937856|ref|XM_033197228.1| PREDICTED: Trachypithecus francoisi NFIL3 like basic leucine zipper (NFILZ), transcript variant X3, mRNA
+gi|1825937854|ref|XM_033197227.1| PREDICTED: Trachypithecus francoisi NFIL3 like basic leucine zipper (NFILZ), transcript variant X2, mRNA
+gi|1825937852|ref|XM_033197226.1| PREDICTED: Trachypithecus francoisi NFIL3 like basic leucine zipper (NFILZ), transcript variant X1, mRNA
+gi|1933980289|ref|XM_037728386.1| PREDICTED: Cebus imitator NFIL3 like basic leucine zipper (NFILZ), mRNA
+gi|1864466634|ref|XM_035286919.1| PREDICTED: Callithrix jacchus NFIL3 like basic leucine zipper (NFILZ), mRNA
+gi|1984106826|ref|XM_039465724.1| PREDICTED: Saimiri boliviensis boliviensis NFIL3 like basic leucine zipper (NFILZ), mRNA
+gi|2168821712|ref|XM_045548187.1| PREDICTED: Lemur catta NFIL3 like basic leucine zipper (NFILZ), mRNA
