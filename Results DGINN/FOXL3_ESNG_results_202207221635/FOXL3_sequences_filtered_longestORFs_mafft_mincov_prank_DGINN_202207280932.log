@@ -1,0 +1,19 @@
+2022-07-28 09:32:31,342 - main - INFO - Starting /opt/DGINN/lib/Init.py (v1.0)
+2022-07-28 09:32:31,343 - main - INFO - Reading input file /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank.best.fas
+2022-07-28 09:32:31,343 - main - INFO - Output directory: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_results_202207280932/
+2022-07-28 09:32:31,343 - main - INFO - Analysis will begin at the positiveSelection step
+2022-07-28 09:32:31,343 - main - WARNING - queryName is not provided, coverage check will not run.
+2022-07-28 09:32:31,343 - main.positiveSelection - INFO - Alignement file: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank.best.fas
+2022-07-28 09:32:31,343 - main.positiveSelection - INFO - Gene Tree file: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso.phylip_phyml_tree.txt
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Output directory: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_results_202207280932/positive_selection_results_202207280932/
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Alignement: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank.best.fas
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Alignement is in Fasta format.
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Tree: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso.phylip_phyml_tree.txt
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Starting positive selection analyses.
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - POSITIVE SELECTION ANALYSIS: 
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Analysis to be run:
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Branch-site
+2022-07-28 09:32:31,344 - main.positiveSelection - INFO - Episodic selection (MEME, HYPHY)
+2022-07-28 09:32:31,349 - main.positiveSelection - INFO - hyphy meme --output /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_results_202207280932/positive_selection_results_202207280932/meme/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank.MEME.json --alignment /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank.best.fas --tree /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_results_202207280932/positive_selection_results_202207280932/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clado.tree
+2022-07-28 09:32:31,623 - main.positiveSelection - INFO - Finished positive selection analyses.
+2022-07-28 09:32:31,623 - main - INFO - Finished DGINN analyses, exiting.

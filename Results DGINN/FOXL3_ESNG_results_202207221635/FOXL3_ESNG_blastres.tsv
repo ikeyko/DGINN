@@ -1,0 +1,34 @@
+# BLASTN 2.13.0+
+# Query: homSap_FOXL3_ENSG00000248767
+# Database: nr					
+# Fields: subject id, ?
+# 927 hits found
+gi|1767010781|ref|NM_001374838.1| Homo sapiens forkhead box L3 (FOXL3), mRNA
+gi|1849170823|ref|XM_034965416.1| PREDICTED: Pan paniscus forkhead box L3 (FOXL3), mRNA
+gi|1800053120|ref|XM_032145641.1| PREDICTED: Hylobates moloch forkhead box L3 (FOXL3), mRNA
+gi|1743137965|ref|XM_030808800.1| PREDICTED: Nomascus leucogenys forkhead box protein L1-like (LOC115830436), mRNA
+gi|1622928028|ref|XM_001091091.3| PREDICTED: Macaca mulatta forkhead box protein L1 (LOC702793), mRNA
+gi|1381546967|ref|XM_011744343.2| PREDICTED: Macaca nemestrina forkhead box protein L1 (LOC105483432), mRNA
+gi|795441082|ref|XM_012029770.1| PREDICTED: Cercocebus atys forkhead box protein L1 (LOC105571786), mRNA
+gi|2161897810|ref|XM_005548949.3| PREDICTED: Macaca fascicularis forkhead box L3 (FOXL3), transcript variant X2, mRNA
+gi|1777322218|ref|XM_031665878.1| PREDICTED: Papio anubis forkhead box protein L1 (LOC100997057), mRNA
+gi|1938937289|ref|XM_008018930.2| PREDICTED: Chlorocebus sabaeus forkhead box L3 (FOXL3), mRNA
+gi|1059088213|ref|XM_017892511.1| PREDICTED: Rhinopithecus bieti forkhead box protein L1 (LOC108542469), mRNA
+gi|1825931012|ref|XM_033193781.1| PREDICTED: Trachypithecus francoisi forkhead box L3 (FOXL3), mRNA
+gi|1788695838|ref|XM_023188540.2| PREDICTED: Piliocolobus tephrosceles forkhead box L3 (FOXL3), mRNA
+gi|1984012514|ref|XM_003943761.3| PREDICTED: Saimiri boliviensis boliviensis forkhead box L3 (FOXL3), mRNA
+gi|1933997932|ref|XM_017508279.2| PREDICTED: Cebus imitator forkhead box L3 (FOXL3), mRNA
+gi|1804447769|ref|XM_032259810.1| PREDICTED: Sapajus apella forkhead box L3 (FOXL3), mRNA
+gi|1864003255|ref|XM_002764031.5| PREDICTED: Callithrix jacchus forkhead box L3 (FOXL3), transcript variant X1, mRNA
+gi|830017883|ref|XM_012758883.1| PREDICTED: Microcebus murinus forkhead box protein L1 (LOC105868272), mRNA
+gi|826278295|ref|XM_012638912.1| PREDICTED: Propithecus coquereli forkhead box protein L1 (LOC105805944), mRNA
+gi|109289880|gb|AC187653.1| Homo sapiens chromosome 7 clone WI2-2373I1, complete sequence
+gi|2168871127|ref|XM_045542131.1| PREDICTED: Lemur catta forkhead box L3 (FOXL3), mRNA
+gi|1411149112|ref|XM_025381046.1| PREDICTED: Theropithecus gelada forkhead box protein I2-like (LOC112621589), partial mRNA
+gi|395845671|ref|XM_003795501.1| PREDICTED: Otolemur garnettii forkhead box protein L1 (LOC100962385), mRNA
+gi|1743190136|ref|XM_030801489.1| PREDICTED: Nomascus leucogenys forkhead box protein D3-like (LOC115831937), partial mRNA
+gi|1751283242|ref|XM_030932018.1| PREDICTED: Rhinopithecus roxellana forkhead box protein I2 (LOC104664932), partial mRNA
+gi|1753080920|ref|XM_031012944.1| PREDICTED: Gorilla gorilla gorilla forkhead box protein L1 (LOC101137760), mRNA
+gi|2161897808|ref|XM_045388018.1| PREDICTED: Macaca fascicularis forkhead box L3 (FOXL3), transcript variant X1, mRNA
+gi|1864451158|ref|XM_035290283.1| PREDICTED: Callithrix jacchus forkhead box L3 (FOXL3), transcript variant X3, mRNA
+gi|1864451156|ref|XM_035290278.1| PREDICTED: Callithrix jacchus forkhead box L3 (FOXL3), transcript variant X2, mRNA

@@ -1,0 +1,30 @@
+2022-07-25 11:31:25,242 - main - INFO - Starting /opt/DGINN/lib/Init.py (v1.0)
+2022-07-25 11:31:25,242 - main - INFO - Reading input file /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723.best.fas
+2022-07-25 11:31:25,242 - main - INFO - Output directory: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723_results_202207251131/
+2022-07-25 11:31:25,242 - main - INFO - Analysis will begin at the positiveSelection step
+2022-07-25 11:31:25,242 - main - WARNING - queryName is not provided, coverage check will not run.
+2022-07-25 11:31:25,242 - main.positiveSelection - INFO - Alignement file: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723.best.fas
+2022-07-25 11:31:25,242 - main.positiveSelection - INFO - Gene Tree file: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723.phylip_phyml_tree.txt
+2022-07-25 11:31:25,243 - main.positiveSelection - INFO - Output directory: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723_results_202207251131/positive_selection_results_202207251131/
+2022-07-25 11:31:25,243 - main.positiveSelection - INFO - Alignement: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723.best.fas
+2022-07-25 11:31:25,243 - main.positiveSelection - INFO - Alignement is in Fasta format.
+2022-07-25 11:31:25,243 - main.positiveSelection - INFO - Tree: /home/imelonie/DGINN/Sequences/FOXL3_ESNG_results_202207221635/FOXL3_sequences_filtered_longestORFs_mafft_mincov_prank_clustiso_frag_0_723.phylip_phyml_tree.txt
+2022-07-25 11:31:25,243 - main.positiveSelection - INFO - Starting positive selection analyses.
+2022-07-25 11:31:25,243 - main.positiveSelection - INFO - POSITIVE SELECTION ANALYSIS: 
+2022-07-25 11:31:25,243 - main.positiveSelection - INFO - Analysis to be run:
+2022-07-25 11:31:25,244 - main.positiveSelection - INFO - Site (codeml)
+2022-07-25 11:31:25,246 - main.positiveSelection - INFO - PAML codeml
+2022-07-25 11:31:25,247 - main.positiveSelection - INFO - Running M0_C
+2022-07-25 11:31:54,356 - main.positiveSelection - INFO - Log Likelihood = None
+2022-07-25 11:31:54,356 - main.positiveSelection - INFO - Running M1_C
+2022-07-25 11:33:11,553 - main.positiveSelection - INFO - Log Likelihood = -1419.272663
+2022-07-25 11:33:11,553 - main.positiveSelection - INFO - Running M2_C
+2022-07-25 11:35:20,161 - main.positiveSelection - INFO - Log Likelihood = -1419.272663
+2022-07-25 11:35:20,161 - main.positiveSelection - INFO - Running M7_C
+2022-07-25 11:42:07,242 - main.positiveSelection - INFO - Log Likelihood = -1411.448739
+2022-07-25 11:42:07,242 - main.positiveSelection - INFO - Running M8_C
+2022-07-25 11:49:33,790 - main.positiveSelection - INFO - Log Likelihood = -1411.449264
+2022-07-25 11:49:33,790 - main.positiveSelection - INFO - LRT of M1_C vs M2_C: 1.000000
+2022-07-25 11:49:33,791 - main.positiveSelection - INFO - LRT of M7_C vs M8_C: 0.999475
+2022-07-25 11:49:33,791 - main.positiveSelection - INFO - Finished positive selection analyses.
+2022-07-25 11:49:33,791 - main - INFO - Finished DGINN analyses, exiting.
