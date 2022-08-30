@@ -1,0 +1,119 @@
+---
+title: "Ensembl ortholog search script"
+author: "Katherina Dieser"
+date: "12/15/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "")
+getwd()
+```
+
+
+
+Init biomaRt and selecting an Ensembl BioMart database and dataset
+
+```{r}
+library("biomaRt")
+library(tidyverse)
+library(jsonlite)
+ensembl <- useEnsembl('ensembl', 'hsapiens_gene_ensembl', version = "102")
+```
+
+
+Show attributes list and export in file
+```{r}
+attributes = listAttributes(ensembl)
+attributes
+write.table(attributes, file = "attributes102.txt", sep = "\t",
+            row.names = TRUE, col.names = TRUE)
+```
+
+
+Show datasets list and export in file
+```{r}
+datasets <- listDatasets(ensembl)
+datasets
+write.table(datasets, file = "datasets102.txt", sep = "\t",
+            row.names = TRUE, col.names = TRUE)
+```
+
+Show filters List and export in file
+```{r}
+filters <- listFilters(ensembl)
+filters
+write.table(filters, file = "filters.txt", sep = "\t",
+            row.names = FALSE, col.names = TRUE)
+```
+
+
+Set data
+```{r}
+
+attributes <- c("ensembl_gene_id",
+              "coding",
+              "external_gene_name",
+              "transcript_mane_select",
+              "transcript_tsl",
+              "ensembl_transcript_id_version",
+              "transcript_length",
+              "transcript_biotype")
+geneIDs = scan(file="geneIDs.txt", what=character())
+speciesList <- scan(file="PrimatesSpeciesList.txt",what=character())
+geneIDs
+speciesList
+
+```
+
+Bild a biomaRt query for Homo Sapiens
+```{r}
+hs_genes <- getBM(attributes = attributes, filters = "ensembl_gene_id", values = geneIDs, mart = ensembl)
+hs_genes$species <- "hsapiens"
+```
+
+Search for the orthologues in the other species in Ensembl
+```{r}
+findOrthoType <- function(Species){
+  homologs <- c("ensembl_gene_id",noquote(paste0(Species,"_homolog_ensembl_gene")),noquote(paste0(Species,"_homolog_orthology_type")))
+  Homol <- getBM(attributes = homologs, filters = "ensembl_gene_id", values = geneIDs , mart = ensembl)
+  colnames(Homol) <- c("ensembl_gene_id",
+                       "homolog_gene_id",
+                       "ortho_type")
+  attr_aO <- c("ensembl_gene_id",
+               "coding",
+               "external_gene_name",
+               "ensembl_transcript_id_version",
+               "transcript_length",
+               "transcript_biotype")
+  ensembl.currentSpecies <- useEnsembl("ensembl", dataset = paste0(Species,"_gene_ensembl"),version = "102")
+  tmpSpec <-  getBM(attributes = attr_aO, filters = "ensembl_gene_id", values = Homol$homolog_gene_id, mart = ensembl.currentSpecies)
+  if (nrow(tmpSpec) != 0){
+
+    tmpSpec$species <- Species 
+    colnames(tmpSpec) <- c("homolog_gene_id",
+                           "coding",
+                           "external_gene_name",
+                           "ensembl_transcript_id_version",
+                           "transcript_length",
+                           "transcript_biotype",
+                           "species")
+    
+    tmpGene <- full_join(Homol,tmpSpec,"homolog_gene_id")
+    return(tmpGene)
+  }
+}
+
+data <- lapply(speciesList, findOrthoType)
+tmpdata <- rbind_pages(data)
+data <- full_join(hs_genes,tmpdata)
+data <- data[!is.na(data$coding)&!data$coding == "Sequence unavailable",]
+#output to file
+write.table(data, file = "8GRF_ensembl_orthologs.txt", sep = "\t",
+            row.names = FALSE, col.names = TRUE)
+```
+
+
+
+
