@@ -1,0 +1,280 @@
+ 13 966
+chlSab_HSFX3_XM_037988778            GTGAGCCAAG ATCCAGGCTC CCAAGATAAC TCACCACCAG AAGACCGAAA
+theGel_HSFX3_XM_025373512            GTGAGCCAAG ATCCAGGCTC CCAAGATAAC TCACCACCAG AAGACCGAAA
+papAnu_LOC101010375_XM_003918391     GTGAGCCAAG ATCCAGGATC CCAAGATAAC TCACCACCAG AAGACCGAAA
+manLeu_LOC105532915_XM_011971256     GTGAGCCAAG ATCCAGGCTC CCAAGATAAC TCACCACCAG AAGACCGAAA
+macNem_LOC105485060_XM_011747242     GTGAGCCAAG ATCCAGGCTC CCAAGTTAAC TCACCACCAG AAGACCGAAA
+macFas_LOC107126466_XM_015443967     GTGAGCCAAG ATCCAGGCTC CCAAGTTAAC TCACCACCAG AAGACCGAAA
+macMul_HSFX3_XM_001089561            GTGAGCCAAG ATCCAGGCTC CCAAGTTAAC TCACCACCAG AAGACCGAAA
+traFra_LOC117087108_XM_033216934     GTGAGCCAAG ATCCAGGCTC CCAAGATAAC TCACCACCAG AAGACCGAAA
+traFra_LOC117087437_XM_033217635     GTGAGCCAAG ATCCAGGCTC CCAAGATAAC TCACCACCAG AAGACCGAAA
+rhiRox_LOC104670160_XM_010373351     GTGAGCCAAG ATCCAGGCTC CCAAGATAAC TCACCACCAG AAGACCGAAA
+rhiBie_LOC108539757_XM_017888652     ---------- ---------- ---------- ---------- ----------
+colAngPal_LOC105520770_XM_011954672  GTGAGCCAAG ATCCAGGCTC CCAAGATAAC TCACCACCAG AAGACCGAAA
+pilTep_LOC111535936_XM_023202182     ATGAGCCAAG ATCCAGGCTC CCAAGTTAAC TCACCACCAG AAGACCGAAA
+
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA GAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA GAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA GAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAAACA GAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA GAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA GAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA GAACCTTTTT AGGCTCTCCT
+                                     CAATNNNGTG GTCAACACGG AAGACAACCA CAACCTTTTT AGGCTCTCCT
+                                     CAATNNNGTG GTCAACACGG AAGACAACCA CAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA CAACCTTTTT AGGCTCTCCT
+                                     ---------- ---------- ---------- ---------- ----------
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA CAACCTTTTT AGGCTCTCCT
+                                     CCAATGCGTG GTCAACACGG AAGACAACCA CAACCTTTTT AGGCTCTCCT
+
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGACACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGACACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATGGTGGAAG AAGACACATT CAAGTCTGTG
+                                     ---------- ---------- ---------- ---------- ----------
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+                                     TCCCAAGAAA GCTTTGGATG ATCGTGGAGG AAGAAACATT CAAGTCTGTG
+
+                                     AGCTGGAACG ATGATGGAGA CGCTGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCTGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCTGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     ---------- ---------- ---------- ---------- ----------
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+                                     AGCTGGAACG ATGATGGAGA CGCCGTGATC ATCGAGAAGG ATCTCTTCCA
+
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATTTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     ---------- ---------- ---------- ---------- ----------
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+                                     GAGGGAAGTT CTTCAACGGA GAGGTGCAGA GAGGATCTTC GAAACAGACA
+
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TTTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TTTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TTTATGGATT CTGCAAAACA
+                                     ---------- ---------- ---------- ---------- ----------
+                                     GCTTGAAGAG TTTCATTCGC CAACTGAACC TCTATGGATT CTGCAAAACA
+                                     GCTTGAAGAG TTTCATTCGC CAAATGAACC TCTATGGATT CTGCAAAACA
+
+                                     CGCCCAAGCA ACTCTCCAGG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA ACTCTCCAGG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA ACTCTCCAGG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA ACTCTCCAGG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA ACTCTCCAGG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA ACTCTCCAGG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA ACTCTCCAGG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA AA------GG AAACAAGAAA ATAATGATCT ACCACAACTC
+                                     CGCCCAAGCA AA------GG AAACAAGAAA ATAATGATCT ACCACAACTC
+                                     CGCCCAAGCA AA------GG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     ---------- ---------- ---------- ATGATGATCT ACCACAACTC
+                                     CACCCAAGCA AA------GG AAACAAGAAA ATGATGATCT ACCACAACTC
+                                     CGCCCAAGCA AA------GG AAACAAGAAA ATGATGATCT ACCGCAACTC
+
+                                     CAATTTTCAG AGAGACAAGC CTGGCCCTNG AGATGCCATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAAAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+                                     CAATTTTCAG AGAGACAAGC CCAGGCTCCT GGAGAATATC CAGAGAAAAG
+
+                                     ATGACCTCAG AAACACCNGT CAGCAAGCAA CCTGTGTCCT AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAGCACGGCT CAGCAAGCAA CCTATGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAGCACGGCT CAGCAAGCAA CCTATGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACACGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+                                     ATGACCTCAG AAACATGGCT CAGCAAGCAA CCTGTGTCCC AACTCCAAAG
+
+                                     AGAAAGAAGC CAGAAGCA-- -AGACGCTCC NCCACGATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCC ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCC ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CTACGTATCT ATCACATCAA
+                                     AGAAAGAAGC TGGTAGCTAC AAGACGCTCC CAACGTATCT ATCACATCAA
+
+                                     TGCCAAGAAA GAAGCCATCA AA---TGTCA GCAGGGAGCT ----------
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGGGAGCC CCCAATGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGGGAGCC CCCAATGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGGGAGCC CCCAATGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGGGAGCC CCCAATGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGGGAGCC CCCAGTGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGGGAGCC CCCAGTGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCAGAGAGCC CCCAATGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCAGAGAGCC CCCAATGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGAGAGCC CCCATTGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGAGAGCC CCCATTGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCAGAGAGCC CCCAATGTTC
+                                     TGCCAAGAAA GAAGCCATCA AAATGTGTCA GCGGAGAGCC CCCAATGTTC
+
+                                     ---------- ---------- ---------- --TCTCCCAG GACTAGGGAC
+                                     AGGGACCCAG TGGCACTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCACTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCACTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCACTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCACTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCACTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCAGTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCAGTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCAGTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCAGTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCAGTCAG TCCTTCATGT TCTCT----- ----------
+                                     AGGGACCCAG TGGCAGTCAG TCCTTCATGT TCTCT----- ----------
+
+                                     CCAGGAAACA CCCCAGTCCT TCTGCGTTCT CTTGGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+                                     ---------- ---------- ---------- ---GGCATGT GGTCCAAGAA
+
+                                     TAGTATCACT GGGCATCCT- --NCAAATAG GCTCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAACAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAACAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGACATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+                                     CAGTATCACT GGGCATCCCC TGGGAAATAG GCCCCCTCAG GAACCAAATG
+
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTGG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG CCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG CCACATTTGC ATCTTCGGCT
+                                     GCCCAAGATG GGAGGGCACC TCTGGGAATG CCACATTTGC ATCTTCGGCT
+                                     GCCCAAGATG GGAGGGCACC TCTGGGAATG CCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+                                     GCCCAAGTTG GGAGGGCACC TCTGGGAATG TCACATTTGC ATCTTCGGCT
+
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAGGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAGGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAT AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTTGA TGGAAGGCAC AGGGCAAGTG CCTAGTAGCC CGGTTTACTC
+                                     ACTGCCTGGA TGGAAGGCAC AGGGCAAGTG CCTAATAGCC CGGTTTACTC
+
+                                     C--------- ---------- ---------- ---------- ----------
+                                     AGATAATGGT AGTGTATTGT CTTTGTGCAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTGCAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTGCAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTACAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTACAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTACAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTACAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTACAA TATCTGTTAC NNNATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTACAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTGTATTGT CTTTGTACAA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTATATTGT CTTTGTACGA TATCTGTTAC TCCATTCTGT
+                                     AGATAATGGT AGTATATTGT CTTTGTACGA TATCTGTTAC TCCATTCTGT
+
+                                     ---------- ---------- ---------- ---------- ----------
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AACCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AACCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AACCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTTAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTTAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AGCCCTCTGA CAATGACGAG
+                                     TGGCCACCCT CTCAGTCATG TCTCCAAATG AGCCCTCTGA CAATGAAGAG
+
+                                     ---------- ---------- ---------- ---------- --------AG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AAACTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG ACTCCTCAGA TTACAAGTGT AAACTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAACTGT AAACTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AAACTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTATAAGTGT AAACTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTATAAGTGT AAACTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AGATTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AGATTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AGATTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AGATTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AGATTCTGTG AACAGTTCAG
+                                     GAGCAGGAAG GCTCCTCAGA TTACAAGTGT AGATTCTGTG AACAGTTCAG
+
+                                     A--------- ------
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCG
+                                     AAACAATGCA AGTCCA
+                                     AAACAATGCA AGTCCG
