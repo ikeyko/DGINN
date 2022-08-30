@@ -1,0 +1,85 @@
+# BLASTN 2.13.0+
+# Query: homSap_HSFX3_CCDS83499
+# Database: nr					
+# Fields: subject id, ?
+# 135 hits found
+gi|1808670924|ref|NM_001323079.3| Homo sapiens heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1780222556|ref|NM_001351114.2| Homo sapiens heat shock transcription factor family, X-linked member 4 (HSFX4), mRNA
+gi|1367327889|ref|XM_009439746.3| PREDICTED: Pan troglodytes heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1849204187|ref|XM_034950644.1| PREDICTED: Pan paniscus heat shock transcription factor, X-linked member 3 (LOC117977758), mRNA
+gi|1849195660|ref|XM_003805149.5| PREDICTED: Pan paniscus heat shock transcription factor, X-linked member 3 (LOC100971024), mRNA
+gi|1848978624|ref|XM_024927413.2| PREDICTED: Pan paniscus heat shock transcription factor, X-linked member 3 (LOC112438732), mRNA
+gi|1753089593|ref|XM_031005858.1| PREDICTED: Gorilla gorilla gorilla heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1367327598|ref|XM_024352990.1| PREDICTED: Pan troglodytes heat shock transcription factor, X-linked member 3 (LOC104004022), mRNA
+gi|1351522833|ref|XM_024241031.1| PREDICTED: Pongo abelii heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1351522835|ref|XM_024241032.1| PREDICTED: Pongo abelii heat shock transcription factor, X-linked member 3-like (LOC112130989), mRNA
+gi|1820548603|ref|XM_032757799.1| PREDICTED: Hylobates moloch heat shock transcription factor family, X-linked member 4 (HSFX4), mRNA
+gi|1743234285|ref|XM_003282269.4| PREDICTED: Nomascus leucogenys heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|2161948458|ref|XM_015443967.2| PREDICTED: Macaca fascicularis heat shock transcription factor, X-linked member 3 (LOC107126466), mRNA
+gi|1411185783|ref|XM_025373512.1| PREDICTED: Theropithecus gelada heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1381421131|ref|XM_011747242.2| PREDICTED: Macaca nemestrina heat shock transcription factor, X-linked member 3 (LOC105485060), mRNA
+gi|1622970045|ref|XM_001089561.4| PREDICTED: Macaca mulatta heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1220239643|ref|XM_003918391.4| PREDICTED: Papio anubis heat shock transcription factor, X-linked member 3 (LOC101010375), mRNA
+gi|795378139|ref|XM_012081583.1| PREDICTED: Cercocebus atys heat shock transcription factor, Y-linked (LOC105595592), mRNA
+gi|795378139|ref|XM_012081583.1| PREDICTED: Cercocebus atys heat shock transcription factor, Y-linked (LOC105595592), mRNA
+gi|795330307|ref|XM_011971256.1| PREDICTED: Mandrillus leucophaeus heat shock transcription factor, Y-linked-like (LOC105532915), mRNA
+gi|795330307|ref|XM_011971256.1| PREDICTED: Mandrillus leucophaeus heat shock transcription factor, Y-linked-like (LOC105532915), mRNA
+gi|795249955|ref|XM_011954672.1| PREDICTED: Colobus angolensis palliatus heat shock transcription factor, Y-linked-like (LOC105520770), mRNA
+gi|795249955|ref|XM_011954672.1| PREDICTED: Colobus angolensis palliatus heat shock transcription factor, Y-linked-like (LOC105520770), mRNA
+gi|1825821044|ref|XM_033216934.1| PREDICTED: Trachypithecus francoisi heat shock transcription factor, X-linked member 3-like (LOC117087108), mRNA
+gi|1751289299|ref|XM_010373351.2| PREDICTED: Rhinopithecus roxellana heat shock transcription factor, X-linked member 3-like (LOC104670160), mRNA
+gi|1825821122|ref|XM_033217635.1| PREDICTED: Trachypithecus francoisi heat shock transcription factor, X-linked member 3-like (LOC117087437), mRNA
+gi|1788675795|ref|XM_023202182.3| PREDICTED: Piliocolobus tephrosceles heat shock transcription factor, X-linked member 3 (LOC111535936), mRNA
+gi|1059087286|ref|XM_017888652.1| PREDICTED: Rhinopithecus bieti heat shock transcription factor, Y-linked (LOC108539757), mRNA
+gi|1938911986|ref|XM_037988778.1| PREDICTED: Chlorocebus sabaeus heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1351519296|ref|XM_024240448.1| PREDICTED: Pongo abelii heat shock transcription factor, X-linked member 3-like (LOC112130748), mRNA
+gi|1212395578|ref|XM_021667856.1| PREDICTED: Aotus nancymaae heat shock transcription factor family, X-linked member 3 (HSFX3), mRNA
+gi|1381462075|ref|XM_011765835.2| PREDICTED: Macaca nemestrina heat shock transcription factor, X-linked member 3-like (LOC105495901), mRNA
+gi|2161948073|ref|XM_045383498.1| PREDICTED: Macaca fascicularis heat shock transcription factor, X-linked member 3-like (LOC123571011), mRNA
+gi|1751287802|ref|XM_030933672.1| PREDICTED: Rhinopithecus roxellana heat shock transcription factor, X-linked member 3-like (LOC115898649), mRNA
+gi|1864104625|ref|XM_008990022.3| PREDICTED: Callithrix jacchus heat shock transcription factor family, X-linked member 4 (HSFX4), mRNA
+gi|1864523415|ref|XM_035288886.1| PREDICTED: Callithrix jacchus heat shock transcription factor, X-linked member 3-like (LOC118150578), mRNA
+gi|1622969856|ref|XM_028842012.1| PREDICTED: Macaca mulatta heat shock transcription factor, X-linked member 3-like (LOC114674759), mRNA
+gi|1411182383|ref|XM_025371865.1| PREDICTED: Theropithecus gelada heat shock transcription factor family, X-linked member 4 (HSFX4), mRNA
+gi|1804456885|ref|XM_032264145.1| PREDICTED: Sapajus apella heat shock transcription factor family, X-linked member 4 (HSFX4), mRNA
+gi|1933981202|ref|XM_037728612.1| PREDICTED: Cebus imitator heat shock transcription factor, X-linked member 3-like (LOC108284235), mRNA
+gi|331686178|gb|AC244197.3| Homo sapiens BAC clone CH17-148M8 from chromosome x, complete sequence
+gi|327180800|gb|AC243690.2| Homo sapiens FOSMID clone ABC8-42084900D2 from chromosome x, complete sequence
+gi|215214431|gb|AC233288.1| Homo sapiens BAC clone RP11-383P16 from chromosome x, complete sequence
+gi|210147701|gb|AC231844.2| Homo sapiens BAC clone RP11-210E21 from chromosome x, complete sequence
+gi|210147700|gb|AC231845.2| Homo sapiens BAC clone RP11-94P19 from chromosome x, complete sequence
+gi|7381646|gb|AC016940.7| Homo sapiens X PAC RP5-937E21 (Roswell Park Cancer Institute Human PAC Library) complete sequence
+gi|2335186|gb|AF011889.1|AF011889 Human Xq28 cosmids U126G1, U142F2, U69B6, U145C10, U169A5, U84H1, U24D12, U80A7, U153E6, L35485, and R7-163A8 containing iduronate 2-sulfatase gene and pseudogene, complete sequence
+gi|349732423|gb|AC244099.2| Homo sapiens BAC clone CH17-227A24 from chromosome x, complete sequence
+gi|339735647|emb|CR394566.3| Human DNA sequence from clone RP11-1074P9 on chromosome X, complete sequence
+gi|43823588|emb|BX927209.6| Human DNA sequence from clone WI2-754K2 on chromosome X, complete sequence
+gi|1519284|gb|U66083.1|HSU66083 Human contig of two cosmids from LLNL X chromosome library (U83F1, U109H10), including MAGE-9 antigen (MAGE9) gene, complete cds, and three genes of unknown function
+gi|1935598474|gb|AC280470.1| Pan troglodytes BAC CH251-245A11 from chromosome, complete sequence
+gi|183013980|emb|CU695245.1| Pan troglodytes chromosome X clone CH251-245A11 map Xq28, complete sequence
+gi|73587502|emb|CT025638.1| Pan troglodytes chromosome X clone PTB-083N09 map Xq28, complete sequence
+gi|1149888273|ref|XM_020285108.1| PREDICTED: Microcebus murinus heat shock transcription factor, X-linked (LOC109730266), mRNA
+gi|309951205|gb|AC212038.3| Pongo abelii BAC clone CH276-91P11 from chromosome unknown, complete sequence
+gi|309951205|gb|AC212038.3| Pongo abelii BAC clone CH276-91P11 from chromosome unknown, complete sequence
+gi|309951205|gb|AC212038.3| Pongo abelii BAC clone CH276-91P11 from chromosome unknown, complete sequence
+gi|213688475|gb|AC215774.4| Pongo abelii BAC clone CH276-59F17 from chromosome unknown, complete sequence
+gi|15207898|dbj|AB070029.1| Macaca fascicularis testis cDNA clone:QtsA-11683, similar to human hypothetical protein FLJ35728, mRNA, NM_152610.1
+gi|1935598440|gb|AC280436.1| Macaca mulatta clone BAC CH250-163K20 chromosome X sequence, complete sequence
+gi|1938939673|ref|XM_037996083.1| PREDICTED: Chlorocebus sabaeus heat shock transcription factor, X-linked member 3-like (LOC119623395), partial mRNA
+gi|795378162|ref|XM_012081591.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X7, mRNA
+gi|795378162|ref|XM_012081591.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X7, mRNA
+gi|795378158|ref|XM_012081590.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X6, mRNA
+gi|795378158|ref|XM_012081590.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X6, mRNA
+gi|795378155|ref|XM_012081589.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X5, mRNA
+gi|795378155|ref|XM_012081589.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X5, mRNA
+gi|795378152|ref|XM_012081588.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X4, mRNA
+gi|795378152|ref|XM_012081588.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X4, mRNA
+gi|795378148|ref|XM_012081587.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X3, mRNA
+gi|795378148|ref|XM_012081587.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X3, mRNA
+gi|795378145|ref|XM_012081585.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X2, mRNA
+gi|795378145|ref|XM_012081585.1| PREDICTED: Cercocebus atys chromosome unknown open reading frame, human CXorf40A (LOC105595593), transcript variant X2, mRNA
+gi|1984101229|ref|XM_039464013.1| PREDICTED: Saimiri boliviensis boliviensis heat shock transcription factor, X-linked member 3-like (LOC120361839), mRNA
+gi|285693593|gb|AC239256.4| Chlorocebus aethiops BAC clone CH252-244G6 from chromosome x, complete sequence
+gi|1935598479|gb|AC280475.1| Macaca mulatta clone BAC CH250-547J16 chromosome X sequence, complete sequence
+gi|1825945644|ref|XM_033201062.1| PREDICTED: Trachypithecus francoisi protein CXorf40A-like (LOC117077389), transcript variant X1, mRNA
+gi|1327820020|ref|XM_023507585.1| PREDICTED: Otolemur garnettii heat shock transcription factor, X-linked member 3-like (LOC111721841), mRNA
+gi|2168925785|ref|XM_045538775.1| PREDICTED: Lemur catta heat shock transcription factor family, X-linked member 4 (HSFX4), mRNA
